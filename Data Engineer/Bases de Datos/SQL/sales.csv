@@ -1,0 +1,21 @@
+sale_id,sale_date,customer_id,customer_name,customer_city,product_id,product_name,category,quantity,unit_price,rep_id,rep_name,region
+1001,2025-07-01,C001,María Gómez,Bogotá,P100,Teclado Mecánico,Periféricos,2,120.0,R10,Juan Pérez,Andina
+1002,2025-07-02,C002,Andrés Rodríguez,Medellín,P101,Mouse Óptico,Periféricos,1,45.5,R11,Laura Sánchez,Pacífico
+1003,2025-07-02,C001,María Gómez,Bogotá,P200,Monitor 24″,Pantallas,1,350.0,R10,Juan Pérez,Andina
+1004,2025-07-03,C003,Luis Martínez,Cali,P300,SSD 1TB,Almacenamiento,3,90.0,R12,Camila Torres,Pacífico
+1005,2025-07-04,C004,Ana Beltrán,Barranquilla,P100,Teclado Mecánico,Periféricos,1,120.0,R11,Laura Sánchez,Pacífico
+1006,2025-07-05,C005,Pedro Castillo,Bogotá,P300,SSD 1TB,Almacenamiento,2,90.0,R10,Juan Pérez,Andina
+1007,2025-07-06,C006,Carla Mendoza,Cartagena,P101,Mouse Óptico,Periféricos,4,45.5,R12,Camila Torres,Pacífico
+1008,2025-07-07,C007,Diego López,Bucaramanga,P200,Monitor 24″,Pantallas,2,350.0,R11,Laura Sánchez,Pacífico
+1009,2025-07-08,C008,Sofía García,Bogotá,P400,Webcam HD,Periféricos,1,70.0,R10,Juan Pérez,Andina
+1010,2025-07-09,C009,Javier Ruiz,Medellín,P500,Disco Duro 2TB,Almacenamiento,2,110.0,R11,Laura Sánchez,Pacífico
+1011,2025-07-10,C010,Natalia Jiménez,Cali,P200,Monitor 24″,Pantallas,1,350.0,R12,Camila Torres,Pacífico
+1012,2025-07-11,C002,Andrés Rodríguez,Medellín,P100,Teclado Mecánico,Periféricos,3,120.0,R11,Laura Sánchez,Pacífico
+1013,2025-07-12,C003,Luis Martínez,Cali,P101,Mouse Óptico,Periféricos,5,45.5,R12,Camila Torres,Pacífico
+1014,2025-07-13,C004,Ana Beltrán,Barranquilla,P200,Monitor 24″,Pantallas,1,350.0,R11,Laura Sánchez,Pacífico
+1015,2025-07-14,C005,Pedro Castillo,Bogotá,P400,Webcam HD,Periféricos,2,70.0,R10,Juan Pérez,Andina
+1016,2025-07-15,C006,Carla Mendoza,Cartagena,P500,Disco Duro 2TB,Almacenamiento,1,110.0,R12,Camila Torres,Pacífico
+1017,2025-07-16,C007,Diego López,Bucaramanga,P300,SSD 1TB,Almacenamiento,3,90.0,R11,Laura Sánchez,Pacífico
+1018,2025-07-17,C008,Sofía García,Bogotá,P100,Teclado Mecánico,Periféricos,1,120.0,R10,Juan Pérez,Andina
+1019,2025-07-18,C009,Javier Ruiz,Medellín,P101,Mouse Óptico,Periféricos,2,45.5,R11,Laura Sánchez,Pacífico
+1020,2025-07-19,C010,Natalia Jiménez,Cali,P200,Monitor 24″,Pantallas,1,350.0,R12,Camila Torres,Pacífico

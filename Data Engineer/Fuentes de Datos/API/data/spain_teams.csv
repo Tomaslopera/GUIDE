@@ -1,0 +1,848 @@
+team_name,team_code,team_founded,team_logo,venue_name,venue_address,venue_city,venue_capacity,venue_image,team_age
+BARCELONA,BAR,1899.0,https://media.api-sports.io/football/teams/529.png,Estadi Olímpic Lluís Companys,Carrer de l&apos;Estadi,Barcelona,55926.0,https://media.api-sports.io/football/venues/19939.png,126.0
+ATLETICO MADRID,MAD,1903.0,https://media.api-sports.io/football/teams/530.png,Estádio Cívitas Metropolitano,Rosas,Madrid,70460.0,https://media.api-sports.io/football/venues/19217.png,122.0
+ATHLETIC CLUB,BIL,1898.0,https://media.api-sports.io/football/teams/531.png,San Mamés Barria,Rafael Moreno Pitxitxi Kalea,Bilbao,53289.0,https://media.api-sports.io/football/venues/1460.png,127.0
+VALENCIA,VAL,1919.0,https://media.api-sports.io/football/teams/532.png,Estadio de Mestalla,Avenida de Suecia,Valencia,55000.0,https://media.api-sports.io/football/venues/1497.png,106.0
+VILLARREAL,VIL,1923.0,https://media.api-sports.io/football/teams/533.png,Estadio de la Cerámica,Plaza Labrador,Villarreal,24500.0,https://media.api-sports.io/football/venues/1498.png,102.0
+LAS PALMAS,PAL,1949.0,https://media.api-sports.io/football/teams/534.png,Estadio de Gran Canaria,Avenida Pío XII 29,Las Palmas de Gran Canaria,32392.0,https://media.api-sports.io/football/venues/1481.png,76.0
+MALAGA,MAL,1948.0,https://media.api-sports.io/football/teams/535.png,Estadio La Rosaleda,Avenida de la Palmilla / Paseo de Martiricos,Málaga,30389.0,https://media.api-sports.io/football/venues/1483.png,77.0
+SEVILLA,SEV,1890.0,https://media.api-sports.io/football/teams/536.png,Estadio Ramón Sánchez Pizjuán,Avenida de Eduardo Dato,Sevilla,48649.0,https://media.api-sports.io/football/venues/1494.png,135.0
+LEGANES,LEG,1928.0,https://media.api-sports.io/football/teams/537.png,Estadio Municipal de Butarque,Calle Arquitectura,Leganés,12450.0,https://media.api-sports.io/football/venues/1464.png,97.0
+CELTA VIGO,CEL,1923.0,https://media.api-sports.io/football/teams/538.png,Abanca-Balaídos,Avenida de Balaídos,Vigo,31800.0,https://media.api-sports.io/football/venues/1467.png,102.0
+LEVANTE,LEV,1909.0,https://media.api-sports.io/football/teams/539.png,Estadio Ciudad de Valencia,Calle San Vicente de Paúl 44,Valencia,25534.0,https://media.api-sports.io/football/venues/1482.png,116.0
+ESPANYOL,ESP,1900.0,https://media.api-sports.io/football/teams/540.png,Stage Front Stadium,Avenida Baix Llobregat 100,Cornella de Llobregat,40423.0,https://media.api-sports.io/football/venues/20421.png,125.0
+REAL MADRID,REA,1902.0,https://media.api-sports.io/football/teams/541.png,Estadio Santiago Bernabéu,"Avenida de Concha Espina 1, Chamartín",Madrid,85454.0,https://media.api-sports.io/football/venues/1456.png,123.0
+ALAVES,ALA,1921.0,https://media.api-sports.io/football/teams/542.png,Estadio de Mendizorroza,Paseo de Cervantes,Vitoria-Gasteiz,19840.0,https://media.api-sports.io/football/venues/1470.png,104.0
+REAL BETIS,BET,1907.0,https://media.api-sports.io/football/teams/543.png,Estadio Benito Villamarín,Avenida de Heliópolis,Sevilla,60721.0,https://media.api-sports.io/football/venues/1489.png,118.0
+DEPORTIVO LA CORUNA,COR,1906.0,https://media.api-sports.io/football/teams/544.png,Estadio Abanca-Riazor,Calle Manuel Murguía,La Coruña,34611.0,https://media.api-sports.io/football/venues/1471.png,119.0
+EIBAR,EIB,1940.0,https://media.api-sports.io/football/teams/545.png,Estadio Municipal de Ipurúa,Calle de Ipurúa,Eibar,8050.0,https://media.api-sports.io/football/venues/1472.png,85.0
+GETAFE,GET,1983.0,https://media.api-sports.io/football/teams/546.png,Estadio Coliseum,Avenida de Teresa de Calcuta,Getafe,17393.0,https://media.api-sports.io/football/venues/20422.png,42.0
+GIRONA,GIR,1930.0,https://media.api-sports.io/football/teams/547.png,Estadi Municipal de Montilivi,Avenida Montlivi 141,Girona,14500.0,https://media.api-sports.io/football/venues/1478.png,95.0
+REAL SOCIEDAD,RSO,1909.0,https://media.api-sports.io/football/teams/548.png,Reale Arena,Paseo de Anoeta 1,Donostia-San Sebastián,40000.0,https://media.api-sports.io/football/venues/1491.png,116.0
+EUROPA FC,,1907.0,https://media.api-sports.io/football/teams/593.png,Camp Municipal de Futbol Nou Sardenya,"Carrer de Sardenya (Cerdeña), Gràcia",Barcelona,7000.0,https://media.api-sports.io/football/venues/1466.png,118.0
+ALCORCON,ALC,1971.0,https://media.api-sports.io/football/teams/711.png,Estadio Santo Domingo,Avenida de Pablo Iglesias,Alcorcón,7000.0,https://media.api-sports.io/football/venues/1457.png,54.0
+BARCELONA B,BAR,1899.0,https://media.api-sports.io/football/teams/712.png,Estadi Johan Cruyff,B-23,Sant Joan Despí,6000.0,https://media.api-sports.io/football/venues/2917.png,126.0
+CORDOBA,COR,1954.0,https://media.api-sports.io/football/teams/713.png,Estadio Nuevo Arcángel,Avenida del Arcángel,Córdoba,21822.0,https://media.api-sports.io/football/venues/1469.png,71.0
+GIMNASTIC,GIM,1914.0,https://media.api-sports.io/football/teams/714.png,Nou Estadi Costa Daurada,Camí del Llorito,Tarragona,16600.0,https://media.api-sports.io/football/venues/20300.png,111.0
+GRANADA CF,GRA,1931.0,https://media.api-sports.io/football/teams/715.png,Estadio Nuevo Los Cármenes,Calle Pintor Manuel Maldonado,Granada,23156.0,https://media.api-sports.io/football/venues/1479.png,94.0
+LUGO,LUG,1953.0,https://media.api-sports.io/football/teams/716.png,Estadio Anxo Carro,Avenida de los deportes,Lugo,8168.0,https://media.api-sports.io/football/venues/1465.png,72.0
+NUMANCIA,NUM,1945.0,https://media.api-sports.io/football/teams/717.png,Nuevo Estadio Los Pajaritos,Avenida Mariano Vicen 16,Soria,9025.0,https://media.api-sports.io/football/venues/1485.png,80.0
+OVIEDO,OVI,1926.0,https://media.api-sports.io/football/teams/718.png,Estadio Nuevo Carlos Tartiere,C. Isidro Lángara,Oviedo,30500.0,https://media.api-sports.io/football/venues/1490.png,99.0
+TENERIFE,TEN,1922.0,https://media.api-sports.io/football/teams/719.png,Estadio Heliodoro Rodríguez Lopéz,Avenida de San Sebastián,Tenerife,23660.0,https://media.api-sports.io/football/venues/1496.png,103.0
+VALLADOLID,VAL,1928.0,https://media.api-sports.io/football/teams/720.png,Estadio Municipal José Zorrilla,Avenida del Mundial 82,Valladolid,26512.0,https://media.api-sports.io/football/venues/1492.png,97.0
+LORCA FC,,2003.0,https://media.api-sports.io/football/teams/721.png,Estadio Francisco Artés Carrasco,Carratera de Granada,Lorca,8120.0,https://media.api-sports.io/football/venues/2918.png,22.0
+ALBACETE,ALB,1940.0,https://media.api-sports.io/football/teams/722.png,Estadio Carlos Belmonte,Avenida de España,Albacete,17524.0,https://media.api-sports.io/football/venues/1458.png,85.0
+ALMERIA,ALM,1989.0,https://media.api-sports.io/football/teams/723.png,Power Horse Stadium – Estadio de los Juegos Mediterráneos,Calle de Belladona,Almería,21350.0,https://media.api-sports.io/football/venues/19216.png,36.0
+CADIZ,CAD,1910.0,https://media.api-sports.io/football/teams/724.png,Estadio Nuevo Mirandilla,Plaza de Madrid,Cádiz,22000.0,https://media.api-sports.io/football/venues/11915.png,115.0
+CULTURAL LEONESA,CUL,1923.0,https://media.api-sports.io/football/teams/725.png,Estadio Municipal Reino de León,Paseo Sáenz de Miera,León,13451.0,https://media.api-sports.io/football/venues/2916.png,102.0
+HUESCA,HUE,1922.0,https://media.api-sports.io/football/teams/726.png,Estadio El Alcoraz,Camino del Alto Cocorón,Huesca,9128.0,https://media.api-sports.io/football/venues/1480.png,103.0
+OSASUNA,OSA,1920.0,https://media.api-sports.io/football/teams/727.png,Estadio El Sadar,Carretera El Sadar,Iruñea,23576.0,https://media.api-sports.io/football/venues/1486.png,105.0
+RAYO VALLECANO,RAY,1924.0,https://media.api-sports.io/football/teams/728.png,Estadio de Vallecas,Calle Payaso Fofó,Madrid,15500.0,https://media.api-sports.io/football/venues/1488.png,101.0
+REUS,REU,1909.0,https://media.api-sports.io/football/teams/729.png,Estadio Camp Nou Municipal,Calle Recasens i Mercadé 8,Reus,4847.0,https://media.api-sports.io/football/venues/1468.png,116.0
+SEVILLA ATLETICO,SEV,,https://media.api-sports.io/football/teams/730.png,Estadio Jesús Navas,Carretera de Utrera,Sevilla,7000.0,https://media.api-sports.io/football/venues/2919.png,
+SPORTING GIJON,GIJ,1905.0,https://media.api-sports.io/football/teams/731.png,Estadio Municipal El Molinón,Parque de Isabel la Católica,Gijón,29538.0,https://media.api-sports.io/football/venues/1495.png,120.0
+ZARAGOZA,ZAR,1932.0,https://media.api-sports.io/football/teams/732.png,Estadio de la Romareda,Calle de Eduardo Ibarra 6,Zaragoza,34596.0,https://media.api-sports.io/football/venues/1493.png,93.0
+ELCHE,ELC,1923.0,https://media.api-sports.io/football/teams/797.png,Estadio Manuel Martínez Valero,Avenida Manuel Martínez Valero 3,Elche,36017.0,https://media.api-sports.io/football/venues/1473.png,102.0
+MALLORCA,MAL,1916.0,https://media.api-sports.io/football/teams/798.png,Estadi Mallorca Son Moix,Camí dels Reis,Palma de Mallorca,23142.0,https://media.api-sports.io/football/venues/19940.png,109.0
+MIRANDES,MIR,1927.0,https://media.api-sports.io/football/teams/799.png,Estadio Municipal de Anduva,Camino de Anduva,Miranda de Ebro,6000.0,https://media.api-sports.io/football/venues/2920.png,98.0
+UCAM MURCIA,,2009.0,https://media.api-sports.io/football/teams/800.png,Estadio BeSoccer La Condomina,Ronda de Garay 14,Murcia,16500.0,https://media.api-sports.io/football/venues/21291.png,16.0
+EXTREMADURA,,2007.0,https://media.api-sports.io/football/teams/860.png,Estadio Francisco de la Hera,Calle de Badajoz,Almendralejo,11580.0,https://media.api-sports.io/football/venues/1475.png,18.0
+RAYO MAJADAHONDA,,1976.0,https://media.api-sports.io/football/teams/861.png,Miniestadio Cerro del Espino,Avenida del Principe de Asturias,Majadahonda,3865.0,https://media.api-sports.io/football/venues/1487.png,49.0
+UD TACUENSE W,,,https://media.api-sports.io/football/teams/1904.png,,,,,,
+ATHLETIC CLUB W,,,https://media.api-sports.io/football/teams/1905.png,Instalaciones de Lezama Campo 2,Calle Garaioltza Auzoa 147,Lezama,2925.0,https://media.api-sports.io/football/venues/12288.png,
+OIARTZUN KE W,,,https://media.api-sports.io/football/teams/1906.png,,,,,,
+REAL BETIS W,,,https://media.api-sports.io/football/teams/1907.png,,,,,,
+SANTA TERESA W,,,https://media.api-sports.io/football/teams/1908.png,,,,,,
+VALENCIA W,,,https://media.api-sports.io/football/teams/1909.png,,,,,,
+ATLETICO MADRID W,,,https://media.api-sports.io/football/teams/1910.png,Centro Deportivo Wanda Alcalá de Henares,Avenida Gustavo Adolfo Bécquer 64,Alcalá de Henares,2700.0,https://media.api-sports.io/football/venues/22050.png,
+LEVANTE W,,,https://media.api-sports.io/football/teams/1911.png,Ciudad Deportiva de Buñol - Campo 1,Avenida de Vicente Blasco Ibáñez,Buñol,3000.0,https://media.api-sports.io/football/venues/6684.png,
+REAL SOCIEDAD W,,,https://media.api-sports.io/football/teams/1912.png,Campo José Luis Orbegozo,"Paseo del Hipodromo, Zubieta",Donostia-San Sebastián,2500.0,https://media.api-sports.io/football/venues/22052.png,
+GRANAD. TENERIFE W,,,https://media.api-sports.io/football/teams/1913.png,Estadio Heliodoro Rodríguez Lopéz,Avenida de San Sebastián,Santa Cruz de Tenerife (Tenerife),23660.0,https://media.api-sports.io/football/venues/22053.png,
+RAYO VALLECANO W,,,https://media.api-sports.io/football/teams/1914.png,,,,,,
+FUNDACION ALBACETE W,,,https://media.api-sports.io/football/teams/1915.png,,,,,,
+SPORTING HUELVA W,,,https://media.api-sports.io/football/teams/1916.png,,,,,,
+ZARAGOZA W,,,https://media.api-sports.io/football/teams/1917.png,,,,,,
+BARCELONA W,,,https://media.api-sports.io/football/teams/1918.png,Estadi Johan Cruyff,B-23,Sant Joan Despí,6000.0,https://media.api-sports.io/football/venues/2917.png,
+ESPANYOL W,,,https://media.api-sports.io/football/teams/1919.png,Ciutat Esportiva Dani Jarque,Carretera de Mataró,Sant Adrià de Besòs (San Adrián de Besós),6000.0,https://media.api-sports.io/football/venues/22051.png,
+SEVILLA W,,,https://media.api-sports.io/football/teams/1920.png,Estadio Jesús Navas,Carretera de Utrera,Sevilla,7000.0,https://media.api-sports.io/football/venues/2919.png,
+MADRID CFF W,,,https://media.api-sports.io/football/teams/1921.png,Estadio Municipal Nuevo Matapiñonera,Avenida Matapiñonera,San Sebastián de los Reyes,3000.0,https://media.api-sports.io/football/venues/6512.png,
+MALAGA W,,,https://media.api-sports.io/football/teams/1922.png,,,,,,
+EDF LOGRONO W,,,https://media.api-sports.io/football/teams/1923.png,Estadio La Isla,Calle El Cortijo,Logroño,2000.0,https://media.api-sports.io/football/venues/6943.png,
+RACING SANTANDER,SAN,1913.0,https://media.api-sports.io/football/teams/4665.png,Campos de Sport de El Sardinero,Calle del Real Racing Club,Santander,22271.0,https://media.api-sports.io/football/venues/3516.png,112.0
+HÉRCULES,HER,1922.0,https://media.api-sports.io/football/teams/4666.png,Estadio José Rico Pérez,Carrer Camí de Ronda,Alicante,29584.0,https://media.api-sports.io/football/venues/3517.png,103.0
+SANTA EULÁLIA,,,https://media.api-sports.io/football/teams/4890.png,"Estadio Municipal, Santa Eulària",,,1500.0,https://media.api-sports.io/football/venues/3701.png,
+FUENLABRADA,FUE,,https://media.api-sports.io/football/teams/4906.png,Estadio Fernando Torres,Camino San Marcos,Fuenlabrada,7500.0,https://media.api-sports.io/football/venues/3707.png,
+PONFERRADINA,PON,1922.0,https://media.api-sports.io/football/teams/4907.png,Estadio El Toralín,Avenida de Asturias,Ponferrada,8800.0,https://media.api-sports.io/football/venues/3708.png,103.0
+BADALONA,BAD,1903.0,https://media.api-sports.io/football/teams/5250.png,Estadi Municipal de Futbol de Vic,Carrer del Mas d&apos;Osona,Vic,4000.0,https://media.api-sports.io/football/venues/20756.png,122.0
+BARAKALDO,BAR,1917.0,https://media.api-sports.io/football/teams/5251.png,Estadio Nuevo Lasesarre,Paseo El Ferrocarril,Barakaldo,7960.0,https://media.api-sports.io/football/venues/3965.png,108.0
+CD CALAHORRA,,1942.0,https://media.api-sports.io/football/teams/5252.png,Estadio La Planilla,Avenida de Numancia,Calahorra,5600.0,https://media.api-sports.io/football/venues/3966.png,83.0
+CF TALAVERA,,2011.0,https://media.api-sports.io/football/teams/5253.png,Estadio El Prado,,Talavera de la Reina,6000.0,https://media.api-sports.io/football/venues/3967.png,14.0
+CASTELLÓN,,1922.0,https://media.api-sports.io/football/teams/5254.png,Nou Estadi Castalia,Calle de Huesca,Castellón de la Plana,14485.0,https://media.api-sports.io/football/venues/3968.png,103.0
+CEUTA,,1996.0,https://media.api-sports.io/football/teams/5255.png,Estadio Municipal Alfonso Murube,Avenida de Otero,Ceuta,6500.0,https://media.api-sports.io/football/venues/3969.png,29.0
+COMPOSTELA,COM,1962.0,https://media.api-sports.io/football/teams/5256.png,Estadio Multiusos de San Lázaro,"Avenida de Fernando de Casas Nova, San Lázaro",Santiago de Compostela,14000.0,https://media.api-sports.io/football/venues/3970.png,63.0
+CONQUENSE,CON,1946.0,https://media.api-sports.io/football/teams/5257.png,Estadio Municipal La Fuensanta,Avenida de los Alfares,Cuenca,6700.0,https://media.api-sports.io/football/venues/3971.png,79.0
+CORNELLÀ,,1951.0,https://media.api-sports.io/football/teams/5258.png,Stage Front Stadium,Avenida Baix Llobregat 100,Cornella de Llobregat,40423.0,https://media.api-sports.io/football/venues/20421.png,74.0
+DON BENITO,,1928.0,https://media.api-sports.io/football/teams/5259.png,Estadio Vicente Sanz,Avenida Alonso Martín,Don Benito,7000.0,https://media.api-sports.io/football/venues/3973.png,97.0
+DURANGO,,1919.0,https://media.api-sports.io/football/teams/5260.png,Estadio Tabira,Calle de Tabira,Durango,1500.0,https://media.api-sports.io/football/venues/3974.png,106.0
+EBRO,,1961.0,https://media.api-sports.io/football/teams/5261.png,Estadio Almozara,"Avenida Almozara, Barrio de la Almozara",Zaragoza,1200.0,https://media.api-sports.io/football/venues/21081.png,64.0
+FC CARTAGENA,CAR,1995.0,https://media.api-sports.io/football/teams/5262.png,Estadio Municipal Cartagonova,Avenida Dr. Luis Calandre,Cartagena,15105.0,https://media.api-sports.io/football/venues/3976.png,30.0
+GERNIKA,,1922.0,https://media.api-sports.io/football/teams/5263.png,Estadio Urbieta,,Gernika-Lumo,3000.0,https://media.api-sports.io/football/venues/3977.png,103.0
+GIMNÁSTICA TORRELAVEGA,,1907.0,https://media.api-sports.io/football/teams/5264.png,Estadio El Malecón,Avenida de la Constitución,Torrelavega,6007.0,https://media.api-sports.io/football/venues/3978.png,118.0
+LANGREO,,1961.0,https://media.api-sports.io/football/teams/5265.png,Estadio Nuevo Ganzábal,Calle Dolores Ibárruri,"La Felguera, Langreo",4024.0,https://media.api-sports.io/football/venues/3979.png,64.0
+LLEIDA ESPORTIU,LLE,2011.0,https://media.api-sports.io/football/teams/5266.png,Camp d'Esports de Lleida,Avinguda del Dr. Fleming,Lleida,13031.0,https://media.api-sports.io/football/venues/3980.png,14.0
+MARBELLA,,1997.0,https://media.api-sports.io/football/teams/5267.png,Estadio Municipal Antonio Lorenzo Cuevas,Travesía Huerta de los Cristales,Marbella,7300.0,https://media.api-sports.io/football/venues/3981.png,28.0
+MELILLA,MEL,1943.0,https://media.api-sports.io/football/teams/5268.png,Estadio Álvarez Claro,Explanada de Camellos,Melilla,12000.0,https://media.api-sports.io/football/venues/3982.png,82.0
+MENSAJERO,,1922.0,https://media.api-sports.io/football/teams/5269.png,Estadio Silvestre Carrillo,Avenida del Puente,La Palma,6000.0,https://media.api-sports.io/football/venues/3983.png,103.0
+MUTILVERA,,1993.0,https://media.api-sports.io/football/teams/5270.png,Estadio Municipal Valle de Aranguren,Avenida del Soto,Mutilva Baja,2000.0,https://media.api-sports.io/football/venues/3984.png,32.0
+NAVALCARNERO,,1928.0,https://media.api-sports.io/football/teams/5271.png,Campo de San Francisco,C. Daniel Pérez Samitier,Reinosa,1500.0,https://media.api-sports.io/football/venues/3985.png,97.0
+ONTINYENT,ONT,1947.0,https://media.api-sports.io/football/teams/5272.png,Estadio Municipal El Clariano,Avenida del Textil 18,Ontinyent,5000.0,https://media.api-sports.io/football/venues/3986.png,78.0
+POBLENSE,,,https://media.api-sports.io/football/teams/5273.png,Estadio Municipal de Sa Pobla,,Sa Pobla (Mallorca,8000.0,https://media.api-sports.io/football/venues/3987.png,
+REAL JAÉN,JAE,1922.0,https://media.api-sports.io/football/teams/5274.png,Nuevo Estadio La Victoria,Carretera de Granada,Jaén,12569.0,https://media.api-sports.io/football/venues/3988.png,103.0
+REAL MURCIA,MUR,1908.0,https://media.api-sports.io/football/teams/5275.png,Estadio Enrique Roca de Murcia,Ronda de Garay 14,Murcia,31179.0,https://media.api-sports.io/football/venues/3989.png,117.0
+RÁPIDO BOUZAS,,1917.0,https://media.api-sports.io/football/teams/5276.png,Estadio Baltasar Pujales,Bouzas,Vigo,1500.0,https://media.api-sports.io/football/venues/3990.png,108.0
+SANT ANDREU,SAN,1909.0,https://media.api-sports.io/football/teams/5277.png,Camp Municipal Narcís Sala,"Carrer Santa Coloma 39, San Andrés de Palomar",Barcelona,6563.0,https://media.api-sports.io/football/venues/3991.png,116.0
+TERUEL,,1945.0,https://media.api-sports.io/football/teams/5278.png,Estadio La Pinila,Marcos Peña Royo,Teruel,5000.0,https://media.api-sports.io/football/venues/3992.png,80.0
+TUDELANO,TUD,1935.0,https://media.api-sports.io/football/teams/5279.png,Estadio Municipal Ciudad de Tudela,Avenida de las Merindades,Tudela,11000.0,https://media.api-sports.io/football/venues/3993.png,90.0
+UD LOGROÑÉS,LOG,1967.0,https://media.api-sports.io/football/teams/5280.png,Estadio Nuevo Municipal Las Gaunas,Avenida de la Sierra,Logroño,16000.0,https://media.api-sports.io/football/venues/3994.png,58.0
+UNIONISTAS DE SALAMANCA,,2013.0,https://media.api-sports.io/football/teams/5281.png,Campo de Futbol Reina Sofía,Av. Carlos I,Salamanca,4895.0,https://media.api-sports.io/football/venues/19230.png,12.0
+VILLANOVENSE,VIL,1992.0,https://media.api-sports.io/football/teams/5282.png,Estadio Municipal Villanovense,Avenida de los Deportes,Villanueva de la Serena,7145.0,https://media.api-sports.io/football/venues/3996.png,33.0
+YECLANO,,2004.0,https://media.api-sports.io/football/teams/5283.png,Estadio Municipal La Constitución,Calle de la Cruz Piedra 148,Yecla,4700.0,https://media.api-sports.io/football/venues/3997.png,21.0
+DEPORTIVO DE LA CORUÑA W,,,https://media.api-sports.io/football/teams/6376.png,Ciudad Deportiva de Abegondo,"Agra de Marces, San Tirso de Mabegondo, Abegondo",A Coruña (La Coruña),2000.0,https://media.api-sports.io/football/venues/22054.png,
+TACÓN W,,,https://media.api-sports.io/football/teams/6377.png,,,,,,
+MORA,,,https://media.api-sports.io/football/teams/6688.png,Estadio Las Delicias,Calle Yegros,Mora,1550.0,https://media.api-sports.io/football/venues/4884.png,
+ANTONIANO,,,https://media.api-sports.io/football/teams/7522.png,Estadio Municipal,Calle Bucaro / Calle de Salvador Allende,Lebrija,3500.0,https://media.api-sports.io/football/venues/5459.png,
+ATLÉTICO PORCUNA,,,https://media.api-sports.io/football/teams/7523.png,Estadio Municipal San Benito,Calle Aviador Modesto Aguilera 117,Porcuna,1200.0,https://media.api-sports.io/football/venues/5460.png,
+MELILLA CD,,,https://media.api-sports.io/football/teams/7524.png,Estadio La Espiguera,Calle Alfonso X,Melilla,2000.0,https://media.api-sports.io/football/venues/5461.png,
+RAMÓN Y CAJAL,,,https://media.api-sports.io/football/teams/7525.png,,,,,,
+ATLÉTICO MADRID U19,MAD,,https://media.api-sports.io/football/teams/7884.png,Cerro del Espino Campo Artificial,Avenida del Principe de Asturias,Majadahonda,2000.0,https://media.api-sports.io/football/venues/21262.png,
+BARCELONA U19,BAR,,https://media.api-sports.io/football/teams/7885.png,Camp 1 del Ciutat Esportiva Joan Gamper,,Sant Joan Despí,1512.0,https://media.api-sports.io/football/venues/21263.png,
+DOMŽALE U19,,,https://media.api-sports.io/football/teams/7897.png,,,,,,
+ELFSBORG U19,,,https://media.api-sports.io/football/teams/7899.png,,,,,,
+MIDTJYLLAND U19,,,https://media.api-sports.io/football/teams/7915.png,Wunderelf Arena,Stadion Allé 2a,Ikast,12750.0,https://media.api-sports.io/football/venues/21397.png,
+MINSK U19,,,https://media.api-sports.io/football/teams/7916.png,,,,,,
+REAL MADRID U19,REA,,https://media.api-sports.io/football/teams/7926.png,Estadio Alfredo Di Stéfano,"Ciudad Deportiva del Real Madrid, Valdebebas",Madrid,6500.0,https://media.api-sports.io/football/venues/6669.png,
+REAL ZARAGOZA U19,,,https://media.api-sports.io/football/teams/7927.png,,,,,,
+SALZBURG U19,,,https://media.api-sports.io/football/teams/7928.png,,,,,,
+VIITORUL U19,,,https://media.api-sports.io/football/teams/7939.png,,,,,,
+HJK U19,,,https://media.api-sports.io/football/teams/7952.png,,,,,,
+LEGIA WARSZAWA U19,,,https://media.api-sports.io/football/teams/7987.png,Legia Training Center,ul. Legionistów 3,Książenice,1000.0,https://media.api-sports.io/football/venues/22294.png,
+SABURTALO U19,,,https://media.api-sports.io/football/teams/7992.png,,,,,,
+ZIMBRU U19,,,https://media.api-sports.io/football/teams/8000.png,,,,,,
+ŽELJEZNIČAR U19,,,https://media.api-sports.io/football/teams/8001.png,,,,,,
+ANDRATX,,,https://media.api-sports.io/football/teams/8151.png,Camp Municipal Sa Plana,,Andratx,5000.0,https://media.api-sports.io/football/venues/12462.png,
+BARQUEREÑO,,,https://media.api-sports.io/football/teams/8152.png,Estadio El Castañar,,San Vicente de la Barquera,3500.0,https://media.api-sports.io/football/venues/5775.png,
+BECERRIL CAMPOS,,1977.0,https://media.api-sports.io/football/teams/8153.png,Estadio Mariano Haro,Paseo Polideportivo,Becerril de Campos,2000.0,https://media.api-sports.io/football/venues/5776.png,48.0
+COMILLAS,,,https://media.api-sports.io/football/teams/8154.png,Estadio Mundial 82,"Calle Laguardia, km 1",Logroño,3500.0,https://media.api-sports.io/football/venues/5777.png,
+EL PALMAR,,2006.0,https://media.api-sports.io/football/teams/8155.png,Polideportivo Municipal El Palmar,Calle Polideportivo,El Palmar,2000.0,https://media.api-sports.io/football/venues/5778.png,19.0
+EL ÁLAMO,,,https://media.api-sports.io/football/teams/8156.png,Estadio Facundo Rivas,"Calle del Arce, 102",El Álamo,4000.0,https://media.api-sports.io/football/venues/5779.png,
+FC ANDORRA,,,https://media.api-sports.io/football/teams/8157.png,Estadi Nacional,C/ Baixada del Molí nº33,Andorra la Vella,3306.0,https://media.api-sports.io/football/venues/2618.png,
+FRAGA,,,https://media.api-sports.io/football/teams/8158.png,Estadio de La Estacada,Calle del Río Cinca 10,Fraga,3000.0,https://media.api-sports.io/football/venues/5780.png,
+GRAN TARAJAL,,,https://media.api-sports.io/football/teams/8159.png,Estadio Municipal de Gran Tarajal,Calle Hierro 59,Gran Tarajal,3000.0,https://media.api-sports.io/football/venues/5781.png,
+INTERCITY,,2018.0,https://media.api-sports.io/football/teams/8160.png,Ciudad Deportiva Antonio Solana,Carrer de Barítono Paco La Torre,Alicante,4000.0,https://media.api-sports.io/football/venues/20132.png,7.0
+LOBÓN,,,https://media.api-sports.io/football/teams/8161.png,Estadio Municipal de Lobón,,Lobón,1500.0,https://media.api-sports.io/football/venues/10982.png,
+PEDROÑERAS,,1964.0,https://media.api-sports.io/football/teams/8162.png,Estadio Municipal de Las Pedroñeras,Avenida de Juan Carlos I,Las Pedroñeras,1000.0,https://media.api-sports.io/football/venues/5783.png,61.0
+PEÑA AZAGRESA,,1925.0,https://media.api-sports.io/football/teams/8163.png,Estadio Miguel Sola,Calle Variante,Azagra,1000.0,https://media.api-sports.io/football/venues/5784.png,100.0
+PONTELLAS,,,https://media.api-sports.io/football/teams/8164.png,Campo de fútbol de San Campio,Autoestrada do Atlántico,O Porrinno,1500.0,https://media.api-sports.io/football/venues/5785.png,
+TOLOSA,,,https://media.api-sports.io/football/teams/8165.png,Estadio de Berazubi,"Kalea Berazubi, 1",Tolosa,3000.0,https://media.api-sports.io/football/venues/5786.png,
+URRACA,,1949.0,https://media.api-sports.io/football/teams/8166.png,Campo de La Corredoria,La Riera de Bricia,Posada de Llanes,1700.0,https://media.api-sports.io/football/venues/5787.png,76.0
+AMOREBIETA,AMO,1925.0,https://media.api-sports.io/football/teams/9380.png,Campo Municipal de Urritxe,Barrio de Urritxe,Amorebieta-Echano,3000.0,https://media.api-sports.io/football/venues/6482.png,100.0
+ATLÉTICO BALEARES,BAL,1942.0,https://media.api-sports.io/football/teams/9381.png,Estadio Balear,"Carrer de Sant Ignasi, 70","Palma de Mallorca, Illes Balears",6000.0,https://media.api-sports.io/football/venues/6483.png,83.0
+BADAJOZ,,1905.0,https://media.api-sports.io/football/teams/9382.png,Estadio Municipal Nuevo Vivero,Avenida de la Granadilla,Badajoz,15198.0,https://media.api-sports.io/football/venues/6484.png,120.0
+BERGANTIÑOS,,,https://media.api-sports.io/football/teams/9383.png,Estadio As Eiroas,Calle Gran Vía 143,Carballo,5000.0,https://media.api-sports.io/football/venues/6485.png,
+CACEREÑO,CAC,1919.0,https://media.api-sports.io/football/teams/9384.png,Estadio Príncipe Felipe,Carretera Rute de La Plata,Cáceres,15000.0,https://media.api-sports.io/football/venues/6486.png,106.0
+CORUXO,COR,1930.0,https://media.api-sports.io/football/teams/9385.png,Campo do Vao,"Estrada do Vao, Fontenias",Vigo,1500.0,https://media.api-sports.io/football/venues/6487.png,95.0
+ESCOBEDO,,1917.0,https://media.api-sports.io/football/teams/9386.png,Estadio Eusebio Arce,"Barrio Arenas, 37, Barrio de Escobedo Arenas",Escobedo de Camargo,2000.0,https://media.api-sports.io/football/venues/6488.png,108.0
+GIMNÁSTICA SEGOVIANA,,1928.0,https://media.api-sports.io/football/teams/9387.png,Estadio Municipal de La Albuera,Ciudad Deportiva de La Albuera,Segovia,3000.0,https://media.api-sports.io/football/venues/6489.png,97.0
+GUIJUELO,GUI,1974.0,https://media.api-sports.io/football/teams/9388.png,Estadio Municipal Luis Ramos,Calle Reina Sofía 3,Guijuelo,1800.0,https://media.api-sports.io/football/venues/12287.png,51.0
+HARO DEPORTIVO,,,https://media.api-sports.io/football/teams/9389.png,Estadio Municipal El Mazo,C. Severo Ochoa,Haro,4300.0,https://media.api-sports.io/football/venues/6491.png,
+IBIZA,,2015.0,https://media.api-sports.io/football/teams/9390.png,Estadio Can Misses – Power Electronic,"Calle Campanitx, 27",Ibiza,6500.0,https://media.api-sports.io/football/venues/12463.png,10.0
+ILLUECA,,1935.0,https://media.api-sports.io/football/teams/9391.png,Estadio Papa Luna,,Illueca,2000.0,https://media.api-sports.io/football/venues/6493.png,90.0
+L'HOSPITALET,HOS,1957.0,https://media.api-sports.io/football/teams/9392.png,Estadio Municipal de Hospitalet de Llobregat,Carrer de la Feixa Llarga,L&apos;Hospitalet de Llobregat,6294.0,https://media.api-sports.io/football/venues/6494.png,68.0
+LA NUCÍA,,1995.0,https://media.api-sports.io/football/teams/9393.png,Estadi Olímpic Camilo Cano,"Apartado de Correos 11, Partida Muixara",La Nucia,7000.0,https://media.api-sports.io/football/venues/12723.png,30.0
+LAREDO,,1927.0,https://media.api-sports.io/football/teams/9394.png,Campo San Lorenzo,Duque de Ahumada,Laredo,2500.0,https://media.api-sports.io/football/venues/6496.png,98.0
+LAS ROZAS,,,https://media.api-sports.io/football/teams/9395.png,Polideportivo Dehesa de Navalcarbón 2,"Av. Ntra. Señora del Retamar, Nº 16",Las Rozas de Madrid,1000.0,https://media.api-sports.io/football/venues/19144.png,
+LEALTAD,,1916.0,https://media.api-sports.io/football/teams/9396.png,Estadio Las Callejas,Calle Las Callejas,Villaviciosa,3000.0,https://media.api-sports.io/football/venues/6498.png,109.0
+LEIOA,,1925.0,https://media.api-sports.io/football/teams/9397.png,Estadio Sarriena 4,Sarriena Auzoa 42,Leioa,2000.0,https://media.api-sports.io/football/venues/21287.png,100.0
+LINARES DEPORTIVO,,2009.0,https://media.api-sports.io/football/teams/9398.png,Estadio Municipal de Linarejos,Avenida 1º de Mayo,Linares,10000.0,https://media.api-sports.io/football/venues/6500.png,16.0
+LLAGOSTERA,LLA,1947.0,https://media.api-sports.io/football/teams/9399.png,Estadio Municipal de Llagostera,Avinguda de l&apos;Esport,Llagostera,2500.0,https://media.api-sports.io/football/venues/6501.png,78.0
+LORCA DEPORTIVA,,2012.0,https://media.api-sports.io/football/teams/9400.png,Estadio Francisco Artés Carrasco,Carratera de Granada,Lorca,8120.0,https://media.api-sports.io/football/venues/2918.png,13.0
+MARINO DE LUANCO,MAR,1931.0,https://media.api-sports.io/football/teams/9401.png,Estadi Municipal de Miramar,Plaza Miramar,Luanco,5000.0,https://media.api-sports.io/football/venues/6502.png,94.0
+MÉRIDA,MER,2003.0,https://media.api-sports.io/football/teams/9402.png,Estadio Olímpico Carlos Iturralde Rivero,"Colonias, Calle 14",Mérida,21050.0,https://media.api-sports.io/football/venues/1844.png,22.0
+OLOT,,1921.0,https://media.api-sports.io/football/teams/9403.png,Camp Municipal d'Olot,Carrer de l&apos;Estadi,Olot,6000.0,https://media.api-sports.io/football/venues/6504.png,104.0
+ORIHUELA,ORI,1993.0,https://media.api-sports.io/football/teams/9404.png,Estadio Municipal Los Arcos,Camino Viejo de Molins,Orihuela,7000.0,https://media.api-sports.io/football/venues/6505.png,32.0
+PEÑA DEPORTIVA,,,https://media.api-sports.io/football/teams/9405.png,Campo Municipal del Santa Eulalia del Río,Lugar Barri Sa Rota Den Pere Cardona,Ibiza,1500.0,https://media.api-sports.io/football/venues/6506.png,
+PEÑA SPORT,PEN,1925.0,https://media.api-sports.io/football/teams/9406.png,Campo San Francisco,Avenida de Tuleda,Tafalla,3000.0,https://media.api-sports.io/football/venues/6507.png,100.0
+PONTEVEDRA,,1941.0,https://media.api-sports.io/football/teams/9407.png,Estadio Municipal de Pasarón,Calle de Luis Otero,Pontevedra,16500.0,https://media.api-sports.io/football/venues/6508.png,84.0
+PORTUGALETE,,1944.0,https://media.api-sports.io/football/teams/9408.png,Estadio La Florida,Guipuzcoa 2,Portugalete,5000.0,https://media.api-sports.io/football/venues/6509.png,81.0
+RACING FERROL,FER,1919.0,https://media.api-sports.io/football/teams/9409.png,Estadio Municipal de A Malata,Calle de la Malata,Ferrol,12043.0,https://media.api-sports.io/football/venues/6510.png,106.0
+RECREATIVO HUELVA,REC,1889.0,https://media.api-sports.io/football/teams/9410.png,Estadio Nuevo Colombino,Avenida del Decano del Fútbol Espanol,Huelva,19860.0,https://media.api-sports.io/football/venues/6511.png,136.0
+SD LOGROÑÉS,SDL,2009.0,https://media.api-sports.io/football/teams/9411.png,Estadio Nuevo Municipal Las Gaunas,Avenida de la Sierra,Logroño,16000.0,https://media.api-sports.io/football/venues/3994.png,16.0
+SS REYES,,1971.0,https://media.api-sports.io/football/teams/9412.png,Estadio Municipal Nuevo Matapiñonera,Avenida Matapiñonera,San Sebastián de los Reyes,3000.0,https://media.api-sports.io/football/venues/6512.png,54.0
+SESTAO RIVER,SES,1996.0,https://media.api-sports.io/football/teams/9413.png,Estadio Las Llanas,Alameda de Las Llanas,Sestao,8905.0,https://media.api-sports.io/football/venues/6513.png,29.0
+SOCUÉLLAMOS,,1924.0,https://media.api-sports.io/football/teams/9414.png,Estadio Paquito Jiménez,,Socuéllamos,3500.0,https://media.api-sports.io/football/venues/6514.png,101.0
+TAMARACEITE,,1966.0,https://media.api-sports.io/football/teams/9415.png,Campo de Fútbol Juan Guedes,Calle Alfonso de Armas Ayala,Las Palmas de Gran Canaria,2000.0,https://media.api-sports.io/football/venues/6515.png,59.0
+TARAZONA,,1969.0,https://media.api-sports.io/football/teams/9416.png,Estadio Municipal de Tarazona,Avenida La Paz,Tarazona,2200.0,https://media.api-sports.io/football/venues/6516.png,56.0
+VILLARRUBIA,,1959.0,https://media.api-sports.io/football/teams/9417.png,Campo Nuevo Municipal,Camino de Herencia,Villarrubia de los Ojos,1000.0,https://media.api-sports.io/football/venues/6517.png,66.0
+ZAMORA,,1969.0,https://media.api-sports.io/football/teams/9418.png,Estadio Ruta de la Plata,Carretera de Salamanca,Zamora,7818.0,https://media.api-sports.io/football/venues/6518.png,56.0
+VILLAFRANCA,,,https://media.api-sports.io/football/teams/9479.png,Estadio Municipal de Villafranca de los Barros,,Villafranca de los Barros,5500.0,https://media.api-sports.io/football/venues/6574.png,
+ATLÉTICO MADRID II,MAD,1903.0,https://media.api-sports.io/football/teams/9570.png,Miniestadio Cerro del Espino,Avenida del Principe de Asturias,Majadahonda,3865.0,https://media.api-sports.io/football/venues/1487.png,122.0
+CELTA DE VIGO II,CEL,1923.0,https://media.api-sports.io/football/teams/9571.png,Campo de Fútbol Municipal de Barreiro,"Avenida de Ramón Nieto 326, Barreiro",Vigo,4500.0,https://media.api-sports.io/football/venues/6665.png,102.0
+GETAFE II,GET,,https://media.api-sports.io/football/teams/9572.png,Ciudad Deportiva de Getafe - Campo 1,Calle Teresa de Calcuta,Getafe,1200.0,https://media.api-sports.io/football/venues/19145.png,
+INTERNACIONAL DE MADRID,,2002.0,https://media.api-sports.io/football/teams/9573.png,Campo de Fútbol Municipal de Boadilla del Monte,"Carretera Boadilla a Pozuelo, Km 1,4",Boadilla del Monte,2000.0,https://media.api-sports.io/football/venues/6667.png,23.0
+LAS PALMAS II,PAL,,https://media.api-sports.io/football/teams/9574.png,Anexo Gran Canaria,Calle de los Fondos de Segura,Las Palmas de Gran Canaria,2000.0,https://media.api-sports.io/football/venues/6668.png,
+REAL MADRID II,REA,1972.0,https://media.api-sports.io/football/teams/9575.png,Estadio Alfredo Di Stéfano,"Ciudad Deportiva del Real Madrid, Valdebebas",Madrid,6500.0,https://media.api-sports.io/football/venues/6669.png,53.0
+REAL OVIEDO II,,1943.0,https://media.api-sports.io/football/teams/9576.png,Estadio El Requexón,,Oviedo,3000.0,https://media.api-sports.io/football/venues/6670.png,82.0
+SPORTING GIJÓN II,,1955.0,https://media.api-sports.io/football/teams/9577.png,Escuela de Fútbol de Mareo,"Escuela de Fútbol de Mareo, Leorio",Gijón,3000.0,https://media.api-sports.io/football/venues/6671.png,70.0
+ARENAS GETXO,,1909.0,https://media.api-sports.io/football/teams/9578.png,Estadio Municipal de Gobela,"Luis Lopez Oses Kalea, 1",Getxo,1221.0,https://media.api-sports.io/football/venues/6672.png,116.0
+ATHLETIC CLUB II,BIL,1964.0,https://media.api-sports.io/football/teams/9579.png,Instalaciones de Lezama Campo 2,Calle Garaioltza Auzoa 147,Lezama,2925.0,https://media.api-sports.io/football/venues/12288.png,61.0
+BURGOS,BUR,1922.0,https://media.api-sports.io/football/teams/9580.png,Estadio Municipal de El Plantío,Calle del Dos de Mayo,Burgos,12200.0,https://media.api-sports.io/football/venues/6674.png,103.0
+CALAHORRA,,1942.0,https://media.api-sports.io/football/teams/9581.png,Estadio La Planilla,Avenida de Numancia,Calahorra,5600.0,https://media.api-sports.io/football/venues/3966.png,83.0
+DEPORTIVO ALAVÉS II,,,https://media.api-sports.io/football/teams/9582.png,Ciudad Deportiva José Luis Compañón,Carretera N-I,Vitoria-Gasteiz,2500.0,https://media.api-sports.io/football/venues/6675.png,
+IZARRA,,1924.0,https://media.api-sports.io/football/teams/9583.png,Estadio Merkatondoa,Calle de Merkatondoa,Lizarra,3500.0,https://media.api-sports.io/football/venues/6676.png,101.0
+OSASUNA II,,1920.0,https://media.api-sports.io/football/teams/9584.png,Instalaciones Deportivas de Tajonar,Paraje Beroa,Tajonar,4000.0,https://media.api-sports.io/football/venues/6677.png,105.0
+REAL SOCIEDAD II,RSO,,https://media.api-sports.io/football/teams/9585.png,Instalaciones de Zubieta,"Paseo del Hipodromo, Zubieta",Donostia-San Sebastián,1500.0,https://media.api-sports.io/football/venues/20313.png,
+REAL UNIÓN,REA,1915.0,https://media.api-sports.io/football/teams/9586.png,Estadio Gal,Calle Patricio Arabolaza 2,Irún,6344.0,https://media.api-sports.io/football/venues/6679.png,110.0
+REAL VALLADOLID II,,,https://media.api-sports.io/football/teams/9587.png,Campo 1 Anexos del José Zorrilla hierba natural,Avenida del Mundial 82,Valladolid,1500.0,https://media.api-sports.io/football/venues/6680.png,
+SALAMANCA UDS,,2013.0,https://media.api-sports.io/football/teams/9588.png,Estadio El Helmántico,"Carratera De Zamora, Villares de la Reina",Salamanca,17341.0,https://media.api-sports.io/football/venues/6681.png,12.0
+EJEA,,1927.0,https://media.api-sports.io/football/teams/9589.png,Estadio de Luchán,"Calle Prolongacion Bomberos, 2",Ejea de los Caballeros,3000.0,https://media.api-sports.io/football/venues/6682.png,98.0
+ESPANYOL II,ESP,1900.0,https://media.api-sports.io/football/teams/9590.png,Ciutat Esportiva Dani Jarque,Carretera de Mataró,San Adrián de Besós,6000.0,https://media.api-sports.io/football/venues/6683.png,125.0
+LEVANTE II,LEV,,https://media.api-sports.io/football/teams/9591.png,Ciudad Deportiva de Buñol - Campo 1,Avenida de Vicente Blasco Ibáñez,Buñol,3000.0,https://media.api-sports.io/football/venues/6684.png,
+PRAT,PRA,1945.0,https://media.api-sports.io/football/teams/9592.png,Estadio Municipal Sagnier,Carrer de Roure,El Prat de Llobregat,500.0,https://media.api-sports.io/football/venues/6685.png,80.0
+SABADELL,SAB,1903.0,https://media.api-sports.io/football/teams/9593.png,Estadi de la Nova Creu Alta,Plaça Olímpia 1,Sabadell,14950.0,https://media.api-sports.io/football/venues/6686.png,122.0
+VALENCIA II,VAL,1919.0,https://media.api-sports.io/football/teams/9594.png,Estadio Antonio Puchades (Ciudad Deportiva Valencia),Carretera Mas Camarena,Paterna,3500.0,https://media.api-sports.io/football/venues/12312.png,106.0
+VILLARREAL II,VIL,1923.0,https://media.api-sports.io/football/teams/9595.png,Estadio de la Cerámica,Plaza Labrador,Villarreal,24500.0,https://media.api-sports.io/football/venues/1498.png,102.0
+LINENSE,,1912.0,https://media.api-sports.io/football/teams/9596.png,Estadio Municipal de La Línea de la Concepción,Avenida de Principe Asturias,La Línea de la Concepción,18500.0,https://media.api-sports.io/football/venues/6689.png,113.0
+ALGECIRAS,ALG,1912.0,https://media.api-sports.io/football/teams/9597.png,Estadio Nuevo Mirador,Poligono de la Menacha,Algeciras,8209.0,https://media.api-sports.io/football/venues/6690.png,113.0
+CÁDIZ II,,,https://media.api-sports.io/football/teams/9598.png,Campo Ramón Blanco Rodríguez,Barriada Meadero de la Reina,Puerto Real,2500.0,https://media.api-sports.io/football/venues/6691.png,
+GRANADA II,GRA,,https://media.api-sports.io/football/teams/9599.png,Ciudad Deportiva del Granada CF,Crta. de Alfacar,Granada,1000.0,https://media.api-sports.io/football/venues/6692.png,
+SAN FERNANDO CD,FER,2009.0,https://media.api-sports.io/football/teams/9600.png,Estadio Iberoamericano 2010,Calle de los Carpinteros,San Fernando,12000.0,https://media.api-sports.io/football/venues/6693.png,16.0
+SANLUQUEÑO,SAN,,https://media.api-sports.io/football/teams/9601.png,Estadio El Palmar,Carretera del Puerto,Sanlúcar de Barrameda,5000.0,https://media.api-sports.io/football/venues/6694.png,
+VILLARROBLEDO,,,https://media.api-sports.io/football/teams/9602.png,Estadio Nuestra Señora de la Caridad,Calle de la Senda Molinera,Villarrobledo,5500.0,https://media.api-sports.io/football/venues/6695.png,
+ALONDRAS,,1928.0,https://media.api-sports.io/football/teams/9603.png,Campo do Morrazo,Avenida de Lugo,Cangas,4000.0,https://media.api-sports.io/football/venues/6696.png,97.0
+ARENTEIRO,,,https://media.api-sports.io/football/teams/9604.png,Estadio de Espiñedo,Rúa Forno Vello,O Carballiño,4500.0,https://media.api-sports.io/football/venues/6697.png,
+AROSA,,1945.0,https://media.api-sports.io/football/teams/9605.png,Estadio A Lomba,Avenida Matonsinhos,Vilagarcía de Arousa,5000.0,https://media.api-sports.io/football/venues/6698.png,80.0
+ARZÚA,,,https://media.api-sports.io/football/teams/9606.png,Estadio Do Viso,"Rúa do Viso, 53",Arzúa,2000.0,https://media.api-sports.io/football/venues/6699.png,
+AS PONTES,,1960.0,https://media.api-sports.io/football/teams/9607.png,Estadio O Poboado,Calle de Pardo Bazan,Puentes de García Rodríguez,4000.0,https://media.api-sports.io/football/venues/6700.png,65.0
+BARCO,,,https://media.api-sports.io/football/teams/9608.png,Campo de Fútbol Municipal de Calabagueiros,"Río Mariñán, s/n",O Barco de Valdeorras,1000.0,https://media.api-sports.io/football/venues/6701.png,
+CHOCO,,1953.0,https://media.api-sports.io/football/teams/9609.png,Campo Municipal de Santa Mariña,Rúa Campo de Fútbol,Redondela,2000.0,https://media.api-sports.io/football/venues/6702.png,72.0
+DEPORTIVO LA CORUÑA II,,1906.0,https://media.api-sports.io/football/teams/9610.png,Ciudad Deportiva de Abegondo,"Agra de Marces, San Tirso de Mabegondo, Abegondo",La Coruña,2000.0,https://media.api-sports.io/football/venues/6703.png,119.0
+ESTRADENSE,,1925.0,https://media.api-sports.io/football/teams/9611.png,Campo Municipal do Concello da Estrada,,A Estrada,2000.0,https://media.api-sports.io/football/venues/6704.png,100.0
+OURENSE CF,,,https://media.api-sports.io/football/teams/9612.png,Estadio O Couto,Calle Estadio de Fútbol,Ourense,5625.0,https://media.api-sports.io/football/venues/6705.png,
+PAIOSACO,,,https://media.api-sports.io/football/teams/9613.png,Campo Porta Santa,"Carretera Soandres, 16",A Laracha,2000.0,https://media.api-sports.io/football/venues/6706.png,
+POLVORÍN,,,https://media.api-sports.io/football/teams/9614.png,Estadio do Polvorín,"Rúa Alcalde Xosé Novo Freire, 8",Lugo,2500.0,https://media.api-sports.io/football/venues/6707.png,
+SILVA,,,https://media.api-sports.io/football/teams/9615.png,Campo Municipal de Fútbol Rodrigo García Vizoso,Rúa de Galileo Galilei,La Coruña,3000.0,https://media.api-sports.io/football/venues/6708.png,
+SOMOZAS,,1985.0,https://media.api-sports.io/football/teams/9616.png,Estadio Alcalde Manuel Candocia,,As Somozas,800.0,https://media.api-sports.io/football/venues/6709.png,40.0
+UD OURENSE,,2014.0,https://media.api-sports.io/football/teams/9617.png,Estadio O Couto,Calle Estadio de Fútbol,Ourense,5625.0,https://media.api-sports.io/football/venues/6705.png,11.0
+VILLALBÉS,,1931.0,https://media.api-sports.io/football/teams/9618.png,Estadio Municipal A Magdalena,Carretera de Playa Fluvial,Villalba,2000.0,https://media.api-sports.io/football/venues/6710.png,94.0
+CAUDAL,CAU,,https://media.api-sports.io/football/teams/9619.png,Estadio Municipal Hermanos Antuña,Calle Villaviciosa,Mieres del Camino,7500.0,https://media.api-sports.io/football/venues/6711.png,
+CEARES,,1946.0,https://media.api-sports.io/football/teams/9620.png,Estadio La Cruz,Parque de Los Pericones,Gijón,1500.0,https://media.api-sports.io/football/venues/6712.png,79.0
+COLUNGA,,1934.0,https://media.api-sports.io/football/teams/9621.png,Estadio Santianes,,Colunga,1000.0,https://media.api-sports.io/football/venues/6713.png,91.0
+CONDAL,,1940.0,https://media.api-sports.io/football/teams/9622.png,Estadio Alejandro Ortea,Calle Los Riegos,Noreña,2000.0,https://media.api-sports.io/football/venues/6714.png,85.0
+COVADONGA,VAD,1979.0,https://media.api-sports.io/football/teams/9623.png,Estadio Juan Antonio Alvarez Rabanal,"Lugar Ponton de Vaqueros, 201",Oviedo,2000.0,https://media.api-sports.io/football/venues/6715.png,46.0
+GIJÓN INDUSTRIAL,,1969.0,https://media.api-sports.io/football/teams/9624.png,Estadio Santa Cruz,Avenida Eduardo Castro,Gijón,2500.0,https://media.api-sports.io/football/venues/6716.png,56.0
+L'ENTREGU,,1939.0,https://media.api-sports.io/football/teams/9625.png,Estadio Nuevo Nalón,,El Entrego,1200.0,https://media.api-sports.io/football/venues/6717.png,86.0
+LENENSE,,1953.0,https://media.api-sports.io/football/teams/9626.png,Estadio ALTOSDEMONTECERRAO.COM - El Sotón,"Caserio los Campos, 3",Pola de Lena,3000.0,https://media.api-sports.io/football/venues/12698.png,72.0
+LLANERA,,,https://media.api-sports.io/football/teams/9627.png,Campo Municipal de Fútbol Pepe Quimarán,"Avenida Prudencio González, 81",Llanera,2500.0,https://media.api-sports.io/football/venues/6719.png,
+LLANES,,1949.0,https://media.api-sports.io/football/teams/9628.png,Estadio San José,Avenida de San José,Llanes,2000.0,https://media.api-sports.io/football/venues/6720.png,76.0
+MOSCONIA,,,https://media.api-sports.io/football/teams/9629.png,Estadio Marqués de La Vega de Anzo,Avda. de los Deportes S/N,"Grado, Asturias",4000.0,https://media.api-sports.io/football/venues/6721.png,
+NAVARRO,,1980.0,https://media.api-sports.io/football/teams/9630.png,Estadio Tabiella,"Calle Navarro y Raíces, Tabiella",Avilés,2000.0,https://media.api-sports.io/football/venues/6722.png,45.0
+PRAVIANO,,,https://media.api-sports.io/football/teams/9631.png,Estadio Santa Catalina,Barrio Santa Catalina,Pravia,2000.0,https://media.api-sports.io/football/venues/6723.png,
+REAL AVILÉS,,1903.0,https://media.api-sports.io/football/teams/9632.png,Estadio Román Suárez Puerta,Calle de Juan Ochoa,Avilés,5200.0,https://media.api-sports.io/football/venues/6724.png,122.0
+SAN MARTÍN,,1950.0,https://media.api-sports.io/football/teams/9633.png,Estadio El Florán,Avenida del Florán,San Martín del Rey Aurelio,5000.0,https://media.api-sports.io/football/venues/6725.png,75.0
+SIERO,,,https://media.api-sports.io/football/teams/9634.png,Estadio El Bayu,calle Ildefonso Sánchez del Río 13,Pola de Siero,5000.0,https://media.api-sports.io/football/venues/6726.png,
+TUILLA,,1952.0,https://media.api-sports.io/football/teams/9635.png,Estadio El Candín,,Tuilla,2800.0,https://media.api-sports.io/football/venues/6727.png,73.0
+VALLOBÍN,,,https://media.api-sports.io/football/teams/9636.png,Estadio Vallobín,"Dr. Solís Cajigal, Vallobín",Oviedo,2000.0,https://media.api-sports.io/football/venues/6728.png,
+ATLÉTICO ALBERICIA,,,https://media.api-sports.io/football/teams/9637.png,Estadio Juan Hormaechea,La Albericia y el Bezana,Santander,1000.0,https://media.api-sports.io/football/venues/6729.png,
+BARREDA,,1917.0,https://media.api-sports.io/football/teams/9638.png,Estadio Solvay,"Avenida Solvay, Barreda",Torrelavega,5100.0,https://media.api-sports.io/football/venues/6730.png,108.0
+BEZANA,,1965.0,https://media.api-sports.io/football/teams/9639.png,Campo De Fútbol Municipal De Bezana,Plaza de Cantabria 2,Santa Cruz de Bezana,3500.0,https://media.api-sports.io/football/venues/20153.png,60.0
+CARTES,,,https://media.api-sports.io/football/teams/9640.png,Campo de Fútbol El Ansar,"Calle Camino Real, 79B",Cartes,1000.0,https://media.api-sports.io/football/venues/6732.png,
+CAYÓN,,,https://media.api-sports.io/football/teams/9641.png,Warner Park Football Stadium,Victoria Road,Basseterre,5000.0,https://media.api-sports.io/football/venues/4158.png,
+GUARNIZO,,1922.0,https://media.api-sports.io/football/teams/9642.png,Estadio El Pilar,Calle Paco Gento,Guarnizo,5625.0,https://media.api-sports.io/football/venues/6733.png,103.0
+RACING SANTANDER II,,1926.0,https://media.api-sports.io/football/teams/9643.png,Estadio La Albericia,Avenida del Deporte,Santander,1100.0,https://media.api-sports.io/football/venues/6734.png,99.0
+RIBAMONTÁN AL MAR,,1971.0,https://media.api-sports.io/football/teams/9644.png,Estadio Baceñuela,Barrio Baceña,"Galizano, Ribamontán al Mar",3000.0,https://media.api-sports.io/football/venues/6735.png,54.0
+SELAYA,,1931.0,https://media.api-sports.io/football/teams/9645.png,Estadio El Castañal,Bo. el Castañal,Selaya,2000.0,https://media.api-sports.io/football/venues/6736.png,94.0
+SIETE VILLAS,,,https://media.api-sports.io/football/teams/9646.png,Campo San Pedro,Barrio de Castillo Siete Villas,Castillo Siete Villas,500.0,https://media.api-sports.io/football/venues/6737.png,
+SOLARES,,1968.0,https://media.api-sports.io/football/teams/9647.png,Campo Municipal La Estación,"La Estación, Solares",Medio Cudeyo,1900.0,https://media.api-sports.io/football/venues/6738.png,57.0
+SÁMANO,,,https://media.api-sports.io/football/teams/9648.png,Estadio Vallegon,P.l. Vallegón 1,Cantabria,1000.0,https://media.api-sports.io/football/venues/6739.png,
+TEXTIL ESCUDO,,,https://media.api-sports.io/football/teams/9649.png,Estadio Juan María Parés,,Cabezón de La Sal,1500.0,https://media.api-sports.io/football/venues/6740.png,
+TORINA,,,https://media.api-sports.io/football/teams/9650.png,Estadio Municipal Bárcena de Pie de Concha,"CA-716, 6",Bárcena de Pie de Concha,2000.0,https://media.api-sports.io/football/venues/6741.png,
+TROPEZÓN,TRO,1983.0,https://media.api-sports.io/football/teams/9651.png,Campo Municipal Santa Ana,"Avenida del Estadio, Tanos",Torrelavega,1500.0,https://media.api-sports.io/football/venues/6742.png,42.0
+VIMENOR,,1929.0,https://media.api-sports.io/football/teams/9652.png,Estadio La Vidriera,Barrio de la Fábrica,Vioño de Piélagos,1600.0,https://media.api-sports.io/football/venues/6743.png,96.0
+VITORIA,,1945.0,https://media.api-sports.io/football/teams/9653.png,Campo Ellakuri,Goienuri Kalea,Laudio,3000.0,https://media.api-sports.io/football/venues/11004.png,80.0
+ARIZNABARRA,,,https://media.api-sports.io/football/teams/9654.png,Estadio Ariznabarra,Etxezarra kalea/Calle Etxezarra,Vitoria-Gasteiz,2500.0,https://media.api-sports.io/football/venues/6745.png,
+BALMASEDA,,,https://media.api-sports.io/football/teams/9655.png,Campo de Fútbol La Baluga,,Balmaseda,1500.0,https://media.api-sports.io/football/venues/6746.png,
+BASCONIA,,1913.0,https://media.api-sports.io/football/teams/9656.png,Estadio Artunduaga,"Artunduaga Etxadia, Barrio Artunduaga",Basauri,5000.0,https://media.api-sports.io/football/venues/11005.png,112.0
+BEASAIN,,1905.0,https://media.api-sports.io/football/teams/9657.png,Estado Municipal de Loinaz,Calle de Igartza-Oleta,Beasain,6000.0,https://media.api-sports.io/football/venues/6748.png,120.0
+DEUSTO,,1913.0,https://media.api-sports.io/football/teams/9658.png,Campo de Fútbol de Etxezuri,"Etxezuri Bidea, 3",Bilbao,1000.0,https://media.api-sports.io/football/venues/6749.png,112.0
+JD SOMORROSTRO,,1943.0,https://media.api-sports.io/football/teams/9659.png,Estadio El Malecón Muskiz,Calle del Crucero,Muskiz,2000.0,https://media.api-sports.io/football/venues/6750.png,82.0
+LAGUN ONAK,,1944.0,https://media.api-sports.io/football/teams/9660.png,Estadio Garmendipe,,Azpeitia,1500.0,https://media.api-sports.io/football/venues/6751.png,81.0
+PASAIA KE,,1941.0,https://media.api-sports.io/football/teams/9661.png,Estadio Don Bosco,Ciudad Laboral Don Bosco,Errenteria,2000.0,https://media.api-sports.io/football/venues/6752.png,84.0
+REAL SOCIEDAD III,,1998.0,https://media.api-sports.io/football/teams/9662.png,Estadio Zubieta XXI,Paseo del Hipodromo,Lasarte-Oria,2500.0,https://media.api-sports.io/football/venues/6678.png,27.0
+SAN IGNACIO,SAN,,https://media.api-sports.io/football/teams/9663.png,Campo de fútbol Los Astrónomos,"Riga Kalea, 59, Los Astrónomos",Gasteiz,1000.0,https://media.api-sports.io/football/venues/21288.png,
+SANTURTZI,,1952.0,https://media.api-sports.io/football/teams/9664.png,Estadio San Jorge,Calle de Pajares,Santurtzi,2000.0,https://media.api-sports.io/football/venues/6755.png,73.0
+SANTUTXU,,1918.0,https://media.api-sports.io/football/teams/9665.png,Estadio Mallona,Calle Calzadas de Mallona,Bilbao,4000.0,https://media.api-sports.io/football/venues/6756.png,107.0
+SODUPE,,,https://media.api-sports.io/football/teams/9666.png,Campo Lorenzo Hurtado de Saratxo,Calle Padura,Sodupe,1500.0,https://media.api-sports.io/football/venues/6757.png,
+URDULIZ,,,https://media.api-sports.io/football/teams/9667.png,Estadio Iparralde,"Iparralde, 2",Urduliz,2000.0,https://media.api-sports.io/football/venues/6758.png,
+BANYOLES,,,https://media.api-sports.io/football/teams/9668.png,Camp Nou de Banyoles,Passeig Darder,Banyoles,4000.0,https://media.api-sports.io/football/venues/6759.png,
+CASTELLDEFELS,,1948.0,https://media.api-sports.io/football/teams/9669.png,Estadio Els Canyars,Calle de la Església 121,Castelldefels,2500.0,https://media.api-sports.io/football/venues/6760.png,77.0
+CERDANYOLA DEL VALLÈS,,,https://media.api-sports.io/football/teams/9670.png,Estadio Municipal Les Fontetes,"Passeig d&apos;Horta, 15",Cerdanyola del Vallès,1000.0,https://media.api-sports.io/football/venues/6761.png,
+FIGUERES,,1919.0,https://media.api-sports.io/football/teams/9671.png,Estadio Municipal de Vilatenim,Barrio de Vilatenim,Figueras,9472.0,https://media.api-sports.io/football/venues/6762.png,106.0
+GRANOLLERS,,1913.0,https://media.api-sports.io/football/teams/9672.png,Campo Municipal Carrer Girona,Carrer de Girona 54,Granollers,2500.0,https://media.api-sports.io/football/venues/6763.png,112.0
+HORTA,,1922.0,https://media.api-sports.io/football/teams/9673.png,Estade Feliu i Codina,"Carrer del Canigó, Horta",Barcelona,5000.0,https://media.api-sports.io/football/venues/6764.png,103.0
+IGUALADA,,,https://media.api-sports.io/football/teams/9674.png,Estadi Cem Les Comes,"Carrer de Carles Riba, 65",Igualada,4500.0,https://media.api-sports.io/football/venues/6765.png,
+MANRESA,,,https://media.api-sports.io/football/teams/9675.png,Estadio El Congost,"Carrer del Dos de Maig, 138",Manresa,3660.0,https://media.api-sports.io/football/venues/6766.png,
+PERALADA,,1915.0,https://media.api-sports.io/football/teams/9676.png,Estadio Municipal de Peralada,Passeig Catalunya,Peralada,1500.0,https://media.api-sports.io/football/venues/6767.png,110.0
+POBLA MAFUMET,,1953.0,https://media.api-sports.io/football/teams/9677.png,Estadio Municipal de La Pobla de Mafumet,,La Pobla de Mafumet,2000.0,https://media.api-sports.io/football/venues/6768.png,72.0
+SAN CRISTÓBAL,,,https://media.api-sports.io/football/teams/9678.png,Camp de Futbol Municipal Ca n'Anglada,"Av. del Vallès, 552",Tarrasa,5000.0,https://media.api-sports.io/football/venues/6769.png,
+SANTFELIUENC,,1905.0,https://media.api-sports.io/football/teams/9679.png,Nou Estadi Municipal de Les Grases,"Carretera Sansón / Carrer Mataro, Sant Feliu de Llobregat",Barcelona,2500.0,https://media.api-sports.io/football/venues/6770.png,120.0
+SANTS,,,https://media.api-sports.io/football/teams/9680.png,Camp de Futbol Energia,"Carrer de l&apos;Energia, 35",Barcelona,1000.0,https://media.api-sports.io/football/venues/6771.png,
+TERRASSA,,1906.0,https://media.api-sports.io/football/teams/9681.png,Estadi Olímpic de Terrassa,Carrer des Jocs Olímpics,Terrassa,11500.0,https://media.api-sports.io/football/venues/6772.png,119.0
+VILAFRANCA,,1904.0,https://media.api-sports.io/football/teams/9682.png,Camp Municipal d'Esports,"Carrer Bodegues Torres, 2640",Vilafranca del Penedès,5000.0,https://media.api-sports.io/football/venues/6773.png,121.0
+VILASSAR MAR,,1946.0,https://media.api-sports.io/football/teams/9683.png,Estadio Municipal Xevi Ramon,vinguda Arquitecte Eduard Ferres 155,Vilassar de Mar,3000.0,https://media.api-sports.io/football/venues/6774.png,79.0
+RODA,,,https://media.api-sports.io/football/teams/9684.png,Ciudad Deportiva Pamesa Cerámica,Camí Segon Sedeny s/n,Villarreal,5000.0,https://media.api-sports.io/football/venues/6775.png,
+ACERO,,1919.0,https://media.api-sports.io/football/teams/9685.png,Estadio El Fornás,"Avenida Camp de Morvedre, 38 Puerto Sagunto",El Port de Sagunt,2000.0,https://media.api-sports.io/football/venues/6776.png,106.0
+ALCOYANO,ALC,1929.0,https://media.api-sports.io/football/teams/9686.png,Campo Municipal El Collao,Calle Oliver,Alcoy,4850.0,https://media.api-sports.io/football/venues/6777.png,96.0
+ALZIRA,,1922.0,https://media.api-sports.io/football/teams/9687.png,Estadio Luis Suñer Picó,Avenida de los Desportes,Alzira,8000.0,https://media.api-sports.io/football/venues/6778.png,103.0
+ATZENETA,,,https://media.api-sports.io/football/teams/9688.png,Campo De Futbol El Regit,Vall d&apos;Albaida,Atzeneta d&apos;Albaida,5000.0,https://media.api-sports.io/football/venues/6779.png,
+BENIGÀNIM,,,https://media.api-sports.io/football/teams/9689.png,Campo Municipal Emilio Cuquerella,Calle Maestro Don José Moscardo S/N,Benigànim,1000.0,https://media.api-sports.io/football/venues/6780.png,
+CREVILLENTE,,,https://media.api-sports.io/football/teams/9690.png,Estadio Enrique Miralles,"4, C. Manuel Sanchis Guarner",Crevillent,3500.0,https://media.api-sports.io/football/venues/6781.png,
+ELCHE II,ELC,1932.0,https://media.api-sports.io/football/teams/9691.png,Estadio José Díez Iborra (Ciudad Deportiva de Elche),Calle Confrides 2,Elche,2000.0,https://media.api-sports.io/football/venues/6782.png,93.0
+ELDENSE,,1921.0,https://media.api-sports.io/football/teams/9692.png,Estadio Municipal Nuevo Pepico Amat,Calle Heidelberg / Avenida de Ronda,Elda,5776.0,https://media.api-sports.io/football/venues/6783.png,104.0
+HÉRCULES II,,,https://media.api-sports.io/football/teams/9693.png,Polideportivo Juan Antonio Samaranch,"C. Paraguay, 6",Alacant,1000.0,https://media.api-sports.io/football/venues/12313.png,
+JOVE ESPAÑOL,,2004.0,https://media.api-sports.io/football/teams/9694.png,Ciudad Deportiva de San Vicente del Raspeig,Avenida Dénia 2,San Vicente del Raspeig,3800.0,https://media.api-sports.io/football/venues/6785.png,21.0
+NOVELDA,,1925.0,https://media.api-sports.io/football/teams/9695.png,Estadio La Magdalena,Avenida del Médico Enrique Sala,Novelda,6500.0,https://media.api-sports.io/football/venues/6786.png,100.0
+OLÍMPIC XÀTIVA,XAT,1932.0,https://media.api-sports.io/football/teams/9696.png,Estadio La Murta,Avinguda de la Murta,Xàtiva,9000.0,https://media.api-sports.io/football/venues/6787.png,93.0
+PATERNA,,2007.0,https://media.api-sports.io/football/teams/9697.png,Estadio Municipal Gerardo Salvador,Calle Manises 23,Paterna,8000.0,https://media.api-sports.io/football/venues/6788.png,18.0
+RC CATARROJA,,2003.0,https://media.api-sports.io/football/teams/9698.png,Estadio Polideportivo Municipal de Sedaví,"Carrer Fernando Baixauli Chornet, s/n",Sedaví,1000.0,https://media.api-sports.io/football/venues/12314.png,22.0
+SAGUNTINO,,1951.0,https://media.api-sports.io/football/teams/9699.png,Estadio Nou Camp de Morvedre,Calle Petres 1200,Sagunt,4000.0,https://media.api-sports.io/football/venues/6790.png,74.0
+SILLA,,,https://media.api-sports.io/football/teams/9700.png,Complejo Deportivo Municipal Vicent Morera,"Av. de Gandía, 22",Silla,5000.0,https://media.api-sports.io/football/venues/6791.png,
+VILAMARXANT,,,https://media.api-sports.io/football/teams/9701.png,Estadio Hermanos Albiol,Avenida del Polideportivo,Ribarroja del Turia,4000.0,https://media.api-sports.io/football/venues/6792.png,
+VILLARREAL III,,,https://media.api-sports.io/football/teams/9702.png,Ciudad Deportiva Pamesa Cerámica,Camí Segon Sedeny s/n,Villarreal,5000.0,https://media.api-sports.io/football/venues/6775.png,
+SANTA ANA,,,https://media.api-sports.io/football/teams/9703.png,Polideportivo Santa Ana,"Calle de Afueras a Valverde, Barrio Fuencarral",Madrid,2000.0,https://media.api-sports.io/football/venues/6793.png,
+AD PARLA,,,https://media.api-sports.io/football/teams/9704.png,Estadio Municipal de Los Prados,Avenida Juan Carlos I,Parla,3500.0,https://media.api-sports.io/football/venues/12699.png,
+ALCOBENDAS SPORT,,1995.0,https://media.api-sports.io/football/teams/9705.png,Campos Municipales Valle de la Oliva,Calle Moreras,Majadahonda,1000.0,https://media.api-sports.io/football/venues/19146.png,30.0
+ALCORCÓN II,,,https://media.api-sports.io/football/teams/9706.png,Campo 2 Alcorcón,Avenida de Pablo Iglesias,Alcorcón,1200.0,https://media.api-sports.io/football/venues/6796.png,
+ATLÉTICO PINTO,,1963.0,https://media.api-sports.io/football/teams/9707.png,Estadio Amelia del Castillo,Calle Doña Manolita,Pinto,1600.0,https://media.api-sports.io/football/venues/6797.png,62.0
+CARABANCHEL,,,https://media.api-sports.io/football/teams/9708.png,Estadio La Mina de Carabanchel,"Calle Monseñor Oscar Romero 39, Carabanchel",Madrid,6000.0,https://media.api-sports.io/football/venues/6798.png,
+FLAT EARTH,,2019.0,https://media.api-sports.io/football/teams/9709.png,Campo de Fútbol Castroserna,Calle de Castroserna,Madrid,1000.0,https://media.api-sports.io/football/venues/6799.png,6.0
+LEGANÉS II,,,https://media.api-sports.io/football/teams/9710.png,Estadio Anexo Butarque,Calle Arquitectura,Leganés,2000.0,https://media.api-sports.io/football/venues/6800.png,
+MORATALAZ,,,https://media.api-sports.io/football/teams/9711.png,,,,,,
+MÓSTOLES,,1996.0,https://media.api-sports.io/football/teams/9712.png,Estadio Municipal de El Soto,Avenida de los Deportes,Móstoles,14000.0,https://media.api-sports.io/football/venues/6801.png,29.0
+POZUELO ALARCÓN,,,https://media.api-sports.io/football/teams/9713.png,Estadio Valle de las Cañas,Camino de Alcorcón a Pozuelo,Pozuelo de Alarcón,2000.0,https://media.api-sports.io/football/venues/6802.png,
+RSD ALCALÁ,,1929.0,https://media.api-sports.io/football/teams/9714.png,Estadio Municipal Virgen del Val,Avenida de Virgen de Val,Alcalá de Henares,8000.0,https://media.api-sports.io/football/venues/6803.png,96.0
+RAYO VALLECANO II,,1924.0,https://media.api-sports.io/football/teams/9715.png,Ciudad Deportiva Rayo Vallecano Campo 2,"Calle del Rayo Vallecano de Madrid, 2",Madrid,1000.0,https://media.api-sports.io/football/venues/19147.png,101.0
+SAN FERNANDO HENARES,,1929.0,https://media.api-sports.io/football/teams/9716.png,Estadio Municipal Santiago del Pino,Plaza San Fernando,San Fernando de Henares,3300.0,https://media.api-sports.io/football/venues/6805.png,96.0
+TORREJÓN,,2002.0,https://media.api-sports.io/football/teams/9717.png,Estadio Las Veredillas,Calle Turin 12,Torrejón de Ardoz,1300.0,https://media.api-sports.io/football/venues/6806.png,23.0
+TRIVAL VALDERAS,,,https://media.api-sports.io/football/teams/9718.png,Estadio La Canaleja,Avenida de los Castillos,Alcorcón,2000.0,https://media.api-sports.io/football/venues/6807.png,
+UNIÓN ADARVE,,,https://media.api-sports.io/football/teams/9719.png,Centro Deportivo Municipal Vicente del Bosque,Avenida de Monforte de Lemos,Madrid,2000.0,https://media.api-sports.io/football/venues/20197.png,
+VILLAVERDE-BOETTICHER,,,https://media.api-sports.io/football/teams/9720.png,Estadio Boetticher,Paseo Talleres 1,Madrid,500.0,https://media.api-sports.io/football/venues/6809.png,
+ALMAZÁN,,,https://media.api-sports.io/football/teams/9721.png,Estadio Municipal de la Arboleda,Paseo de la Arboleda,Almazán,2000.0,https://media.api-sports.io/football/venues/6810.png,
+ARANDINA,,1987.0,https://media.api-sports.io/football/teams/9722.png,Estadio El Montecillo,,Aranda de Duero,10000.0,https://media.api-sports.io/football/venues/6811.png,38.0
+ATLÉTICO ASTORGA,,,https://media.api-sports.io/football/teams/9723.png,Estadio La Eragudina,Paseo La Eragudina,Astorga,2332.0,https://media.api-sports.io/football/venues/6812.png,
+ATLÉTICO TORDESILLAS,,1969.0,https://media.api-sports.io/football/teams/9724.png,Estadio Las Salinas,"Carretera Madrid - Coruña, km 182",Tordesillas,3500.0,https://media.api-sports.io/football/venues/6813.png,56.0
+BEMBIBRE,,,https://media.api-sports.io/football/teams/9725.png,Estadio La Devesa,Paraje La Devesa,Bembibre,2750.0,https://media.api-sports.io/football/venues/6814.png,
+BUPOLSA,,2006.0,https://media.api-sports.io/football/teams/9726.png,Nuevo Campo San Amaro,C/ José Mª Villacián Rebollo,Burgos,1000.0,https://media.api-sports.io/football/venues/6815.png,19.0
+BURGOS PROMESAS,,,https://media.api-sports.io/football/teams/9727.png,Ciudad Deportiva de Castañares,"Calle Obidus, Castañares",Burgos,1000.0,https://media.api-sports.io/football/venues/6816.png,
+CRISTO ATLÉTICO,,,https://media.api-sports.io/football/teams/9728.png,Estadio La Nueva Balastera,Avenida de Cataluña 12,Palencia,12500.0,https://media.api-sports.io/football/venues/6817.png,
+CULTURAL LEONESA II,,,https://media.api-sports.io/football/teams/9729.png,Área Deportiva Municipal Puente Castro,Autovía León-Astorga,León,10000.0,https://media.api-sports.io/football/venues/6818.png,
+LA BAÑEZA,,1956.0,https://media.api-sports.io/football/teams/9730.png,Estadio La Llanera,Calle La Llanera,La Bañeza,3000.0,https://media.api-sports.io/football/venues/6819.png,69.0
+LA GRANJA,,,https://media.api-sports.io/football/teams/9731.png,Campo de Fútbol El Hospital,Ctra de Torrecaballeros,San Ildefonso,1200.0,https://media.api-sports.io/football/venues/6820.png,
+LA VIRGEN DEL CAMINO,,,https://media.api-sports.io/football/teams/9732.png,Campo Los Dominicos,,La Virgen Del Camino,1500.0,https://media.api-sports.io/football/venues/6821.png,
+MIRANDÉS II,,,https://media.api-sports.io/football/teams/9733.png,Estadio Municipal de Ence,Diseminado Ctra. de Logroño,Miranda de Ebro,500.0,https://media.api-sports.io/football/venues/6822.png,
+NUMANCIA II,,,https://media.api-sports.io/football/teams/9734.png,Ciudad Deportiva Francisco Rubio Garcés,Calle de Burgos Km. 351,Soria,1000.0,https://media.api-sports.io/football/venues/6823.png,
+REAL BURGOS,,,https://media.api-sports.io/football/teams/9735.png,Estadio Municipal de El Plantío,Calle del Dos de Mayo,Burgos,12200.0,https://media.api-sports.io/football/venues/6674.png,
+REAL ÁVILA,,,https://media.api-sports.io/football/teams/9736.png,Estadio Municipal Adolfo Suárez,Carratera de Sonsoles,Ávila,5500.0,https://media.api-sports.io/football/venues/6824.png,
+SALAMANCA II,,,https://media.api-sports.io/football/teams/9737.png,Estadio El Helmántico,"Carratera De Zamora, Villares de la Reina",Salamanca,17341.0,https://media.api-sports.io/football/venues/6681.png,
+UD SANTA MARTA,,,https://media.api-sports.io/football/teams/9738.png,Estadio Municipal Alfonso San Casto,Avenida Prof. Enrique  Tierno Galván,Santa Marta de Tormes,1500.0,https://media.api-sports.io/football/venues/6825.png,
+VÉLEZ,,1922.0,https://media.api-sports.io/football/teams/9739.png,Estadio Vivar Téllez,C. Enrique Atencia Portillo,Vélez-Málaga,2100.0,https://media.api-sports.io/football/venues/6826.png,103.0
+ALHAURÍN,,,https://media.api-sports.io/football/teams/9740.png,Estadio Municipal Los Manantiales,Avenida Los Manantiales,Alhaurín de la Torre,3000.0,https://media.api-sports.io/football/venues/6827.png,
+ALMERÍA II,ALM,,https://media.api-sports.io/football/teams/9741.png,Anexo Estadio de los Juegos del Mediterráneo,Calle de Belladona,Almería,2000.0,https://media.api-sports.io/football/venues/19151.png,
+ANTEQUERA,,1992.0,https://media.api-sports.io/football/teams/9742.png,Estadio El Maulí,Calle Escultor Diego Marquez,Antequera,7000.0,https://media.api-sports.io/football/venues/6828.png,33.0
+CIUDAD DE TORREDONJIMENO,,,https://media.api-sports.io/football/teams/9743.png,Estadio Matías Prats,Calle Fuente de Marmol,Torredonjimeno,4500.0,https://media.api-sports.io/football/venues/6829.png,
+EL EJIDO,,2012.0,https://media.api-sports.io/football/teams/9744.png,Estadio Municipal Santo Domingo,"Calle Ángel Maeso, Santo Domingo",El Ejido,7885.0,https://media.api-sports.io/football/venues/19240.png,13.0
+EL PALO,PAL,1971.0,https://media.api-sports.io/football/teams/9745.png,Estadio San Ignacio,"Carretera de Almería, El Palo",Málaga,1000.0,https://media.api-sports.io/football/venues/6831.png,54.0
+HUÉTOR TÁJAR,,1938.0,https://media.api-sports.io/football/teams/9746.png,Estadio Municipal Miguel Moranto,Carretera de la Estacion,Huétor Tájar,1800.0,https://media.api-sports.io/football/venues/6832.png,87.0
+HUÉTOR VEGA,,,https://media.api-sports.io/football/teams/9747.png,Estadio Las Viñas,"Av. Gustavo Adolfo Bécquer, 65",Huétor Vega,4000.0,https://media.api-sports.io/football/venues/6833.png,
+LOJA,,1968.0,https://media.api-sports.io/football/teams/9748.png,Estadio Municipal Medina Lauxa,Avenida de la Estación 2,Loja,2250.0,https://media.api-sports.io/football/venues/6834.png,57.0
+MANCHA REAL,,1984.0,https://media.api-sports.io/football/teams/9749.png,Estadio Polideportivo La Juventud,Calle de San Marcos,Mancha Real,3700.0,https://media.api-sports.io/football/venues/6835.png,41.0
+MARACENA,,1945.0,https://media.api-sports.io/football/teams/9750.png,Ciudad Deportiva Maracena,Avenida José Comino,Maracena,2500.0,https://media.api-sports.io/football/venues/6836.png,80.0
+MOTRIL,,,https://media.api-sports.io/football/teams/9751.png,Estadio Escribano Castilla,Calle San Marcos,Motril,5400.0,https://media.api-sports.io/football/venues/6837.png,
+MÁLAGA II,,,https://media.api-sports.io/football/teams/9752.png,Ciudad Deportiva de la Federación Malagueña de Fútbol,Calle de Max Estrella,Málaga,1300.0,https://media.api-sports.io/football/venues/6838.png,
+POLIDEPORTIVO ALMERÍA,,1983.0,https://media.api-sports.io/football/teams/9753.png,Ciudad Deportiva Los Ángeles,Calle Morato,Almería,1500.0,https://media.api-sports.io/football/venues/21274.png,42.0
+TORREPEROGIL,,,https://media.api-sports.io/football/teams/9754.png,Polideportivo Municipal Abdon Martínez Fariñas,"Calle Víctor Pradera, 35",Torreperogil,2000.0,https://media.api-sports.io/football/venues/6840.png,
+ARCOS,,1956.0,https://media.api-sports.io/football/teams/9755.png,Estadio Antonio Barbadillo,Carretera de Arcos El Bosque,Arcos de la Frontera,2900.0,https://media.api-sports.io/football/venues/6841.png,69.0
+CIUDAD DE LUCENA,LUC,,https://media.api-sports.io/football/teams/9756.png,Estadio Ciudad de Lucena,Polígono industrial Los Polvillares,Lucena,5076.0,https://media.api-sports.io/football/venues/6842.png,
+CONIL,,1931.0,https://media.api-sports.io/football/teams/9757.png,Estadio Municipal Jose António Pérez Ureba,Carretra de los Militares,Conil de la Frontera,1500.0,https://media.api-sports.io/football/venues/6843.png,94.0
+CORIA CF,,1923.0,https://media.api-sports.io/football/teams/9758.png,Estadio Guadalquivir,,Coria del Río,5000.0,https://media.api-sports.io/football/venues/6844.png,102.0
+CÓRDOBA II,COR,,https://media.api-sports.io/football/teams/9759.png,Estadio Nuevo Arcángel,Avenida del Arcángel,Córdoba,21822.0,https://media.api-sports.io/football/venues/1469.png,
+GERENA,,2006.0,https://media.api-sports.io/football/teams/9760.png,Estadio San José,Av. del Deporte,Gines,1000.0,https://media.api-sports.io/football/venues/21391.png,19.0
+LEBRIJANA,,1928.0,https://media.api-sports.io/football/teams/9761.png,Estadio Municipal,Calle Bucaro / Calle de Salvador Allende,Lebrija,3500.0,https://media.api-sports.io/football/venues/5459.png,97.0
+LOS BARRIOS,,,https://media.api-sports.io/football/teams/9762.png,Estadio San Rafael,Avenida Dña. Rosa García López-Cespero,Los Barrios,2500.0,https://media.api-sports.io/football/venues/6846.png,
+POZOBLANCO,,1926.0,https://media.api-sports.io/football/teams/9763.png,Estadio Municipal Pozoblanco,Calle del Pintor Goya,Pozoblanco,5000.0,https://media.api-sports.io/football/venues/12610.png,99.0
+PUENTE GENIL,,1939.0,https://media.api-sports.io/football/teams/9764.png,Estadio Municipal Manuel Polinario,"Calle Montalbán, 17, Parque Príncipe de Asturias",Puente Genil,2000.0,https://media.api-sports.io/football/venues/6848.png,86.0
+REAL BETIS II,,,https://media.api-sports.io/football/teams/9765.png,Ciudad Deportiva Luis de Sol,Avenida de Italia,Sevilla,3000.0,https://media.api-sports.io/football/venues/6849.png,
+ROTA,,,https://media.api-sports.io/football/teams/9766.png,Estadio Municipal Alcalde Navarro Flores,Avenida de la Diputación 164,Rota,5000.0,https://media.api-sports.io/football/venues/6850.png,
+SAN ROQUE LEPE,,1956.0,https://media.api-sports.io/football/teams/9767.png,Estadio Municipal Ciudad de Lepe,Avenida de Andalucía,Lepe,4000.0,https://media.api-sports.io/football/venues/6851.png,69.0
+SEVILLA III,,,https://media.api-sports.io/football/teams/9768.png,Estadio Jesús Navas,Carretera de Utrera,Sevilla,7000.0,https://media.api-sports.io/football/venues/2919.png,
+UTRERA,,1946.0,https://media.api-sports.io/football/teams/9769.png,Estadio San Juan Bosco,Paseo de Consolación,Utrera,3000.0,https://media.api-sports.io/football/venues/6852.png,79.0
+XEREZ,,1947.0,https://media.api-sports.io/football/teams/9770.png,Estadio Municipal de Chapín,Avenida del Polo,Jerez de la Frontera,20742.0,https://media.api-sports.io/football/venues/6854.png,78.0
+XEREZ DEPORTIVO,,,https://media.api-sports.io/football/teams/9771.png,Estadio Municipal de Chapín,Avenida del Polo,Jerez de la Frontera,20742.0,https://media.api-sports.io/football/venues/6854.png,
+ÉCIJA,ECI,1939.0,https://media.api-sports.io/football/teams/9772.png,Estadio Municipal San Pablo,Calle de Cesteria,Écija,6000.0,https://media.api-sports.io/football/venues/6855.png,86.0
+ALCÚDIA,,1975.0,https://media.api-sports.io/football/teams/9773.png,Estadi Municipal Els Arcs,Via de Corneli Àtic,Mallorca,4000.0,https://media.api-sports.io/football/venues/6856.png,50.0
+BINISSALEM,,,https://media.api-sports.io/football/teams/9774.png,Estadio Miquel Pons,Carrer del Rector Rafael Sabater,Mallorca,2000.0,https://media.api-sports.io/football/venues/6857.png,
+COLLERENSE,,,https://media.api-sports.io/football/teams/9775.png,Estadio Municipal Coll d’en Rebassa,"Ca&apos;n Caimari 11, Coll d’en Rebassa",Mallorca,1000.0,https://media.api-sports.io/football/venues/6858.png,
+CONSTÀNCIA,CON,1922.0,https://media.api-sports.io/football/teams/9776.png,Nou Camp de Inca,Carretera de Sineu,Inca,10000.0,https://media.api-sports.io/football/venues/6859.png,103.0
+ESPORLES,,,https://media.api-sports.io/football/teams/9777.png,Son Quint Estadio,"Calle sin Nombre 5, 3",Esporles,1000.0,https://media.api-sports.io/football/venues/6860.png,
+FELANITX,,,https://media.api-sports.io/football/teams/9778.png,Estadio Es Torrentó,Ctra. Porto Colom,Mallorca,2000.0,https://media.api-sports.io/football/venues/6861.png,
+FERRIOLENSE,,,https://media.api-sports.io/football/teams/9779.png,Estadio Municipal de Son Ferriol,,Mallorca,3000.0,https://media.api-sports.io/football/venues/6862.png,
+FORMENTERA,,1969.0,https://media.api-sports.io/football/teams/9780.png,Estadio Municipal,,Sant Francesc de Formentera,2500.0,https://media.api-sports.io/football/venues/6863.png,56.0
+IBIZA ISLAS PITIUSAS,,,https://media.api-sports.io/football/teams/9781.png,Estadio Can Misses – Power Electronic,"Calle Campanitx, 27",Ibiza,6500.0,https://media.api-sports.io/football/venues/12463.png,
+LLOSETENSE,,,https://media.api-sports.io/football/teams/9782.png,Camp Municipal Es Puig,,Mallorca,2000.0,https://media.api-sports.io/football/venues/6864.png,
+MALLORCA II,,,https://media.api-sports.io/football/teams/9783.png,Estadi Son Bibiloni (Antonio Asensio),Ma-11,Palma de Mallorca,1500.0,https://media.api-sports.io/football/venues/6865.png,
+MANACOR,,,https://media.api-sports.io/football/teams/9784.png,Poliesportiu Municipal Na Capellera,Ronda de l&apos;Institut 52,Manacor,3000.0,https://media.api-sports.io/football/venues/20162.png,
+PLATGES CALVIÀ,,,https://media.api-sports.io/football/teams/9785.png,Polideportivo Municipal de Magalluf,"Avenida Palmere 23, Magaluf",Mallorca,3500.0,https://media.api-sports.io/football/venues/6867.png,
+PORTMANY,,,https://media.api-sports.io/football/teams/9786.png,Estadio Sant Antoni,,Sant Antoni de Portmany,3000.0,https://media.api-sports.io/football/venues/6868.png,
+SAN RAFAEL,,,https://media.api-sports.io/football/teams/9787.png,Estadio Municipal de Sant Rafel,,Ibiza,2000.0,https://media.api-sports.io/football/venues/6869.png,
+SANTA CATALINA ATLÉTICO,,,https://media.api-sports.io/football/teams/9788.png,Camp Municipal de Futbol Son Flor,Calle Josep Escala 15,Palma,1000.0,https://media.api-sports.io/football/venues/6870.png,
+SANTANYÍ,,,https://media.api-sports.io/football/teams/9789.png,Estadio Municipal de Santanyí,Carrer Bernat Vidal i Tomàs,Santanyí (Mallorca,4000.0,https://media.api-sports.io/football/venues/6871.png,
+SÓLLER,,1954.0,https://media.api-sports.io/football/teams/9790.png,Parque Municipal Sóller,Camí de sa figuera,Sóller,1000.0,https://media.api-sports.io/football/venues/12331.png,71.0
+ATLÉTICO PASO,,,https://media.api-sports.io/football/teams/9791.png,Campo Municipal de El Paso,"Prol. Ronda, 14A",El Paso,3500.0,https://media.api-sports.io/football/venues/6873.png,
+ATLÉTICO TACORONTE,,,https://media.api-sports.io/football/teams/9792.png,Barranco Las Lajas Campo De Futbol,"Calle los Andes, 17",Tacoronte,1500.0,https://media.api-sports.io/football/venues/6874.png,
+BUZANADA,,,https://media.api-sports.io/football/teams/9793.png,Campo Municipal de Fútbol Clementina de Bello,"Calle Idelfonso Bello, 1",Buzanada,1000.0,https://media.api-sports.io/football/venues/6875.png,
+GÜÍMAR,,,https://media.api-sports.io/football/teams/9794.png,Estadio de Tasagaya,"Calle del Poeta Aristides Hernandez Mora, 13",Güímar,3500.0,https://media.api-sports.io/football/venues/6876.png,
+IBARRA,,,https://media.api-sports.io/football/teams/9795.png,Estadio Villa Isabel,El Fraile,Tenerife,3000.0,https://media.api-sports.io/football/venues/6877.png,
+LA CUADRA,,2005.0,https://media.api-sports.io/football/teams/9796.png,Estadio Municipal de Los Pozos,Calle Carretera los Pozos,Puerto Rosario,2000.0,https://media.api-sports.io/football/venues/6878.png,20.0
+LANZAROTE,,1970.0,https://media.api-sports.io/football/teams/9797.png,Ciudad Deportiva de Lanzarote,Avenida Alcalde Ginés de la Hoz,Lanzarote,6000.0,https://media.api-sports.io/football/venues/6879.png,55.0
+LAS PALMAS III,,,https://media.api-sports.io/football/teams/9798.png,Anexo Gran Canaria,Calle de los Fondos de Segura,Las Palmas de Gran Canaria,2000.0,https://media.api-sports.io/football/venues/6668.png,
+MARINO,,,https://media.api-sports.io/football/teams/9799.png,Estadio Antonio Domínguez Alfonso,Playa de las Américas,Tenerife,7500.0,https://media.api-sports.io/football/venues/6880.png,
+PANADERÍA PULIDO,,,https://media.api-sports.io/football/teams/9800.png,Campo de Futbol Vega de San Mateo,Calle del Agua,Vega de San Mateo,3000.0,https://media.api-sports.io/football/venues/6881.png,
+SANTA ÚRSULA,,,https://media.api-sports.io/football/teams/9801.png,Estadio Argelio Tabares,Calle Finca Pastor 3-11,Santa Úrsula,2000.0,https://media.api-sports.io/football/venues/6882.png,
+TENERIFE II,,1912.0,https://media.api-sports.io/football/teams/9802.png,Centro Insular de Atletismo de Tenerife,Calle Volcán Birigoyo,Santa Cruz de Tenerife,4000.0,https://media.api-sports.io/football/venues/12339.png,113.0
+TENISCA,,,https://media.api-sports.io/football/teams/9803.png,Estadio Virgen de Las Nieves,Carratera Gral Mirca,La Palma,5500.0,https://media.api-sports.io/football/venues/6884.png,
+UD SAN FERNANDO,,1992.0,https://media.api-sports.io/football/teams/9804.png,Ciudad Deportiva de Maspalomas,"Avenida Finnair, Parque Sur",Gran Canaria,2000.0,https://media.api-sports.io/football/venues/6885.png,33.0
+UNIÓN VIERA,,1962.0,https://media.api-sports.io/football/teams/9805.png,Estadio Alfonso Silva,"Calle de Gustavo Julio Navarro Nieto, La Ballena",Las Palmas de Gran Canaria,3500.0,https://media.api-sports.io/football/venues/6886.png,63.0
+VERA,,,https://media.api-sports.io/football/teams/9806.png,Estadio Las Viñas,"Calle Mojigato, Cella",Vera,2000.0,https://media.api-sports.io/football/venues/11045.png,
+VILLA SANTA BRÍGIDA,,2004.0,https://media.api-sports.io/football/teams/9807.png,Estadio El Guiniguada,Carretera a los Olivos,Gran Canaria,1100.0,https://media.api-sports.io/football/venues/12340.png,21.0
+ATLÉTICO PULPILEÑO,,2002.0,https://media.api-sports.io/football/teams/9808.png,Estadio San Miguel,Av. los Escolares,Pulpí,2000.0,https://media.api-sports.io/football/venues/6889.png,23.0
+CAP CIUDAD DE MURCIA,,2010.0,https://media.api-sports.io/football/teams/9809.png,Estadio José Barnés,Calle Mar Menor,Murcia,1500.0,https://media.api-sports.io/football/venues/6890.png,15.0
+CARTAGENA FC,,1940.0,https://media.api-sports.io/football/teams/9810.png,Ciudad Deportiva Gómez Meseguer,"Calle Londres, Polígono Cabezo Beaza",Cartagena,2000.0,https://media.api-sports.io/football/venues/12465.png,85.0
+DEPORTIVA MINERA,,1949.0,https://media.api-sports.io/football/teams/9811.png,Estadio Municipal Ángel Celdrán,Calle General Vives,El Llano del Beal,2000.0,https://media.api-sports.io/football/venues/6891.png,76.0
+EDMF CHURRA,,2009.0,https://media.api-sports.io/football/teams/9812.png,Campo de EDMF Churra,Juan Aguilar Amat,Murcia,1000.0,https://media.api-sports.io/football/venues/6892.png,16.0
+HUÉRCAL OVERA,,1944.0,https://media.api-sports.io/football/teams/9813.png,Estadio El Hornillo,Avenida Guillermo Reyna,Huércal-Overa,1785.0,https://media.api-sports.io/football/venues/6893.png,81.0
+LOS GARRES,,,https://media.api-sports.io/football/teams/9814.png,Estadio Las Tejeras,"Calle Tejeras, Garres y Lages",Murcia,1000.0,https://media.api-sports.io/football/venues/6894.png,
+MAR MENOR,,2007.0,https://media.api-sports.io/football/teams/9815.png,Estadio El Pitín,,San Javier,3000.0,https://media.api-sports.io/football/venues/6895.png,18.0
+MAZARRÓN FC,,2010.0,https://media.api-sports.io/football/teams/9816.png,Estadio Municipal de Mazarrón,"Calle Viena, 3",Mazarrón,1000.0,https://media.api-sports.io/football/venues/6896.png,15.0
+MULEÑO,,1989.0,https://media.api-sports.io/football/teams/9817.png,Estadio Municipal de Mula,"Camino Curtis, 9",Mula,2000.0,https://media.api-sports.io/football/venues/6897.png,36.0
+OLÍMPICO TOTANA,,1961.0,https://media.api-sports.io/football/teams/9818.png,Estadio Juan Cayuela,Calle Olímpico 2,Totana,2500.0,https://media.api-sports.io/football/venues/6898.png,64.0
+PLUS ULTRA,,1986.0,https://media.api-sports.io/football/teams/9819.png,Estadio Municipal de Llano de Brujas,Vereda de los Zapatas,Llano de Brujas,2000.0,https://media.api-sports.io/football/venues/6899.png,39.0
+REAL MURCIA II,,1908.0,https://media.api-sports.io/football/teams/9820.png,Estadio Campus Universitario,"Calle Campus Universitario, 18",Murcia,5000.0,https://media.api-sports.io/football/venues/6900.png,117.0
+SFC MINERVA,,,https://media.api-sports.io/football/teams/9821.png,Campo Municipal El Secante,Calle San Francisco,Alumbres,1000.0,https://media.api-sports.io/football/venues/6901.png,
+UCAM MURCIA II,,,https://media.api-sports.io/football/teams/9822.png,Estadio El Mayayo,Carril El Mayayo,Sangonera la Verde,1200.0,https://media.api-sports.io/football/venues/6902.png,
+ÁGUILAS,,2010.0,https://media.api-sports.io/football/teams/9823.png,Estadio El Rubial,Calle Electra,Águilas,4000.0,https://media.api-sports.io/football/venues/6903.png,15.0
+ACEUCHAL,,,https://media.api-sports.io/football/teams/9824.png,Polideportivo Municipal Aceuchal,"Ctra. Villafranca, 1",Aceuchal,2500.0,https://media.api-sports.io/football/venues/6904.png,
+ARROYO,ARR,1968.0,https://media.api-sports.io/football/teams/9825.png,Estadio Municipal de Arroyo de la Luz,,Arroyo de la Luz,3000.0,https://media.api-sports.io/football/venues/6905.png,57.0
+AZUAGA,,,https://media.api-sports.io/football/teams/9826.png,Estadio CD Azuaga,Calle Antonio Machado,Azuaga,1500.0,https://media.api-sports.io/football/venues/6906.png,
+CD CORIA,,1965.0,https://media.api-sports.io/football/teams/9827.png,Estadio La Isla,Calle Cervantes,Coria,4389.0,https://media.api-sports.io/football/venues/6907.png,60.0
+CALAMONTE,,1965.0,https://media.api-sports.io/football/teams/9828.png,Municipal Calamonteño,,Calamonte,2000.0,https://media.api-sports.io/football/venues/6908.png,60.0
+DIOCESANO,,,https://media.api-sports.io/football/teams/9829.png,Estadio Manuel Sánchez Delgado,"Av. Héroes de Baler, 41",Cáceres,4000.0,https://media.api-sports.io/football/venues/6909.png,
+EXTREMADURA UD II,,,https://media.api-sports.io/football/teams/9830.png,Polideportivo Municipal Tomás de la Hera,Calle Nicolás Mejias 2,Almendralejo,3000.0,https://media.api-sports.io/football/venues/6910.png,
+FUENTE CANTOS,,1975.0,https://media.api-sports.io/football/teams/9831.png,Estadio Municipal Francisco De Zurbarán,Calle Felipe Trigo 21,Fuente de Cantos,1500.0,https://media.api-sports.io/football/venues/6911.png,50.0
+JEREZ,,1969.0,https://media.api-sports.io/football/teams/9832.png,Estadio Manuel Calzado Galván,"Pl. de Toros, 28",Jerez de los Caballeros,5000.0,https://media.api-sports.io/football/venues/6912.png,56.0
+LLERENENSE,,,https://media.api-sports.io/football/teams/9833.png,Estadio Fernando Robina,Av. Ancha de Sevilla,Llerena,1000.0,https://media.api-sports.io/football/venues/6913.png,
+MIAJADAS,,1944.0,https://media.api-sports.io/football/teams/9834.png,Estadio Municipal de Miajadas,Carretera del Casar de Miajadas,Miajadas,2500.0,https://media.api-sports.io/football/venues/6914.png,81.0
+MONTIJO,,,https://media.api-sports.io/football/teams/9835.png,Estadio Municipal Emilio Macarro Rodriguez,"Avda. de la Estación, 10",Montijo,2000.0,https://media.api-sports.io/football/venues/6915.png,
+MORALO,,1965.0,https://media.api-sports.io/football/teams/9836.png,Estadio Municipal de Navalmoral de la Mata,"Ctra. Jarandilla, 2",Navalmoral de la Mata,5000.0,https://media.api-sports.io/football/venues/6916.png,60.0
+OLIVENZA,,2013.0,https://media.api-sports.io/football/teams/9837.png,Ciudad Deportiva Ramón Rocha Maqueda,Paseo de Hernán Cortés,Olivenza,5000.0,https://media.api-sports.io/football/venues/19157.png,12.0
+PLASENCIA,,1974.0,https://media.api-sports.io/football/teams/9838.png,Ciudad Deportiva de Plasencia,Avenida Ciudad Deportiva,Plasencia,5000.0,https://media.api-sports.io/football/venues/6918.png,51.0
+RCP VALVERDEÑO,,1975.0,https://media.api-sports.io/football/teams/9839.png,Estadio Municipal San Roque,,Valverde de Leganés,2000.0,https://media.api-sports.io/football/venues/6919.png,50.0
+TRUJILLO,,,https://media.api-sports.io/football/teams/9840.png,Estadio Municipal Julián García de Guadiana,Calle de Francisco de las Casas,Trujillo,1000.0,https://media.api-sports.io/football/venues/6920.png,
+VALDIVIA,,,https://media.api-sports.io/football/teams/9841.png,Estadio Municipal Primero de Mayo,,Valdivia,1000.0,https://media.api-sports.io/football/venues/6921.png,
+ARDOI,,,https://media.api-sports.io/football/teams/9842.png,Estadio El Pinar II,,Zizur Nagusia,1000.0,https://media.api-sports.io/football/venues/6922.png,
+BAZTÁN,,1925.0,https://media.api-sports.io/football/teams/9843.png,Paraje Gilxaurdi,Paraje Giltxaurdi,Elizondo,1000.0,https://media.api-sports.io/football/venues/6923.png,100.0
+BETI KOZKOR,,,https://media.api-sports.io/football/teams/9844.png,Complejo Deportivo Plazaola,"Calle Burundegia, 9",Lekunberri,1000.0,https://media.api-sports.io/football/venues/6924.png,
+BETI ONAK,,,https://media.api-sports.io/football/teams/9845.png,Estadio Lorenzo Goikoa,"Cam. de los Frutales, 1",Villava,2000.0,https://media.api-sports.io/football/venues/6925.png,
+BURLADÉS,,,https://media.api-sports.io/football/teams/9846.png,Estadio Ripagaina,,Burlada,4000.0,https://media.api-sports.io/football/venues/6926.png,
+CIRBONERO,,1943.0,https://media.api-sports.io/football/teams/9847.png,Estadio San Juan,Avenida de Navarra,Cintruénigo,1000.0,https://media.api-sports.io/football/venues/6927.png,82.0
+CORELLANO,,1929.0,https://media.api-sports.io/football/teams/9848.png,Campo CD Corellano,Calle Jose Luis Arrese,Corella,2500.0,https://media.api-sports.io/football/venues/6928.png,96.0
+CORTES,,,https://media.api-sports.io/football/teams/9849.png,Estadio San Francisco Javier,Calle de los Donantes de Sangre,Navarra,1000.0,https://media.api-sports.io/football/venues/6929.png,
+FONTELLAS,,,https://media.api-sports.io/football/teams/9850.png,Estadio Secarales,Calle Secarales,Fontellas,1000.0,https://media.api-sports.io/football/venues/6930.png,
+HUARTE,,1975.0,https://media.api-sports.io/football/teams/9851.png,Estadio Areta,Pasaje Areta,Uharte,600.0,https://media.api-sports.io/football/venues/6931.png,50.0
+LOURDES,,,https://media.api-sports.io/football/teams/9852.png,Estadio Luis Asarta,Avenida de Huertas Mayores,Tudela,1000.0,https://media.api-sports.io/football/venues/6932.png,
+MURCHANTE,,,https://media.api-sports.io/football/teams/9853.png,Estadio San Roque,Carretera Cascante,Cascante,1400.0,https://media.api-sports.io/football/venues/6933.png,
+PAMPLONA,,,https://media.api-sports.io/football/teams/9854.png,Campo Bidezarra de Noain,Calle Arcos de Noain,Noain,2000.0,https://media.api-sports.io/football/venues/10984.png,
+SAN JUAN,,1962.0,https://media.api-sports.io/football/teams/9855.png,Estadio San Juan,Avenida Sancho el Fuerte,Pamplona,1250.0,https://media.api-sports.io/football/venues/6935.png,63.0
+SUBIZA,,1984.0,https://media.api-sports.io/football/teams/9856.png,Estadio Sotoburu,Paraje de Sotoburu,Subiza,1000.0,https://media.api-sports.io/football/venues/6936.png,41.0
+TXANTREA,,1952.0,https://media.api-sports.io/football/teams/9857.png,Instalaciones Deportivas Chantrea,Calle de Imarcoain 44,Pamplona,3500.0,https://media.api-sports.io/football/venues/6937.png,73.0
+VALLE EGÜÉS,,1968.0,https://media.api-sports.io/football/teams/9858.png,Estadio Sarriguren,,Sarriguren,2000.0,https://media.api-sports.io/football/venues/6938.png,57.0
+ALBERITE,,,https://media.api-sports.io/football/teams/9859.png,Estadio Marino Sáenz,,Alberite,2000.0,https://media.api-sports.io/football/venues/6939.png,
+ALFARO,,1922.0,https://media.api-sports.io/football/teams/9860.png,Estadio La Molineta,Avenida de La Molineta,Alfaro,5000.0,https://media.api-sports.io/football/venues/6940.png,103.0
+ANGUIANO,,1999.0,https://media.api-sports.io/football/teams/9861.png,Estadio Isla Anguiano,Calle de Cenicero a Lerna,Anguiano,1000.0,https://media.api-sports.io/football/venues/6941.png,26.0
+ARNEDO,,1957.0,https://media.api-sports.io/football/teams/9862.png,Estadio Sendero,Avenida de la Cruz Roja,Arnedo,4500.0,https://media.api-sports.io/football/venues/6942.png,68.0
+BERCEO,,1948.0,https://media.api-sports.io/football/teams/9863.png,Estadio La Isla,Calle El Cortijo,Logroño,2000.0,https://media.api-sports.io/football/venues/6943.png,77.0
+CALAHORRA II,,,https://media.api-sports.io/football/teams/9864.png,Estadio La Planilla,Avenida de Numancia,Calahorra,5600.0,https://media.api-sports.io/football/venues/3966.png,
+CALASANCIO,,1977.0,https://media.api-sports.io/football/teams/9865.png,Estadio La Estrella,,Logroño,500.0,https://media.api-sports.io/football/venues/6944.png,48.0
+CASALARREINA,,,https://media.api-sports.io/football/teams/9866.png,Estadio Municipal El Soto,"c/Juan Carlos I, 1-3 E",Haro,800.0,https://media.api-sports.io/football/venues/6945.png,
+LA CALZADA,,1949.0,https://media.api-sports.io/football/teams/9867.png,Estadio El Rollo,,Santo Domingo de la Calzada,1500.0,https://media.api-sports.io/football/venues/6946.png,76.0
+NÁXARA,,1966.0,https://media.api-sports.io/football/teams/9868.png,Estadio La Salera,,Nájera,1114.0,https://media.api-sports.io/football/venues/6947.png,59.0
+OYONESA,,,https://media.api-sports.io/football/teams/9869.png,Estadio El Espinar,"Calle Cmno. Viejo Bidezar, 37",Oyón,1500.0,https://media.api-sports.io/football/venues/19164.png,
+PRADEJÓN,,,https://media.api-sports.io/football/teams/9870.png,Polideportivo Municipal Pradejón,,Pradejón,1700.0,https://media.api-sports.io/football/venues/6949.png,
+RIVER EBRO,,1952.0,https://media.api-sports.io/football/teams/9871.png,Estadio San Miguel,Carretera de Arnedo,Rincón de Soto,3000.0,https://media.api-sports.io/football/venues/6950.png,73.0
+UD LOGROÑÉS II,,2009.0,https://media.api-sports.io/football/teams/9872.png,Estadio Mundial 82,"Calle Laguardia, km 1",Logroño,1275.0,https://media.api-sports.io/football/venues/5777.png,16.0
+VAREA,,2009.0,https://media.api-sports.io/football/teams/9873.png,Estadio Municipal de Varea,"Calle Canicalejo, 33",Varea,2000.0,https://media.api-sports.io/football/venues/12349.png,16.0
+VIANÉS,,,https://media.api-sports.io/football/teams/9874.png,Estadio Municipal de Viana,,Viana,500.0,https://media.api-sports.io/football/venues/6952.png,
+VILLEGAS,,,https://media.api-sports.io/football/teams/9875.png,Estadio La Ribera,Calle de la Madre de Dios,Logroño,800.0,https://media.api-sports.io/football/venues/6953.png,
+YAGÜE,,,https://media.api-sports.io/football/teams/9876.png,Estadio El Salvador,Barrio de Yagüe,Logroño,1161.0,https://media.api-sports.io/football/venues/6954.png,
+ALMUDÉVAR,,1965.0,https://media.api-sports.io/football/teams/9877.png,Estadio Virgen de la Corona,Camino de los Llanos de la Violada,Almudévar,2000.0,https://media.api-sports.io/football/venues/6955.png,60.0
+ATLÉTICO MONZÓN,,1950.0,https://media.api-sports.io/football/teams/9878.png,Estadio Isidro Calderón,,Monzón,5000.0,https://media.api-sports.io/football/venues/6956.png,75.0
+BARBASTRO,,1934.0,https://media.api-sports.io/football/teams/9879.png,Estadio Municipal de Deportes,,Barbastro,5000.0,https://media.api-sports.io/football/venues/6957.png,91.0
+BELCHITE 97,,1997.0,https://media.api-sports.io/football/teams/9880.png,Campo de Futbol Municipal de Belchite,Carretera Cariñena,Belchite,1000.0,https://media.api-sports.io/football/venues/6958.png,28.0
+BINÉFAR,,1922.0,https://media.api-sports.io/football/teams/9881.png,Estadio de Los Olmos,Calle Olriols,Binéfar,1250.0,https://media.api-sports.io/football/venues/6959.png,103.0
+BORJA,,1969.0,https://media.api-sports.io/football/teams/9882.png,Estadio Manuel Meler,"Calle Barbalanca, s/n",Borja,2000.0,https://media.api-sports.io/football/venues/6960.png,56.0
+BREA,,1971.0,https://media.api-sports.io/football/teams/9883.png,Estadio Municipal de Piedrabuena,,Brea de Aragón,1000.0,https://media.api-sports.io/football/venues/6961.png,54.0
+CDJ TAMARITE,,1922.0,https://media.api-sports.io/football/teams/9884.png,Campo La Colomina (hierba artificial),"Camino Piscinas, 6",Tamarite de Litera,1000.0,https://media.api-sports.io/football/venues/19165.png,103.0
+CALAMOCHA,,1940.0,https://media.api-sports.io/football/teams/9885.png,Campo De Fútbol Jumaya Calamocha,"Calle Paretera, 12A",Calamocha,1000.0,https://media.api-sports.io/football/venues/6963.png,85.0
+CUARTE,,,https://media.api-sports.io/football/teams/9886.png,Nuevo Estadio Municipal Cuarte de Huerva,Calle Ramiro I,Cuarte de Huerva,1000.0,https://media.api-sports.io/football/venues/12352.png,
+REAL ZARAGOZA II,ZAR,1958.0,https://media.api-sports.io/football/teams/9887.png,Ciudad Deportiva del Real Zaragoza,Carretera Valencia,Cuarte de Huerva,2500.0,https://media.api-sports.io/football/venues/6965.png,67.0
+ROBRES,,,https://media.api-sports.io/football/teams/9888.png,Estadio San Blas,Camino de la Sierra,Robres,1500.0,https://media.api-sports.io/football/venues/6966.png,
+SAN JUAN MOZARRIFAR,,,https://media.api-sports.io/football/teams/9889.png,Campo Municipal el Gállego,"Camino de Cogullada, San Juan de Mozarrifar",Zaragoza,1000.0,https://media.api-sports.io/football/venues/6967.png,
+SARIÑENA,SAR,1945.0,https://media.api-sports.io/football/teams/9890.png,Estadio El Carmen,Camino de Sasos,Sariñena,4500.0,https://media.api-sports.io/football/venues/6968.png,80.0
+UTEBO,,,https://media.api-sports.io/football/teams/9891.png,Estadio Santa Ana,Calle de Cuenca,Utebo,5000.0,https://media.api-sports.io/football/venues/6969.png,
+VALDEFIERRO,,,https://media.api-sports.io/football/teams/9892.png,CDM Valdefierro,Vía Lactea,Zaragoza,1000.0,https://media.api-sports.io/football/venues/6970.png,
+VILLANUEVA CF,,1974.0,https://media.api-sports.io/football/teams/9893.png,Estadio Nuevo Enrique Porta,Calle Riboberta Menchu,Villanueva de Gállego,2000.0,https://media.api-sports.io/football/venues/6971.png,51.0
+ALMAGRO,,,https://media.api-sports.io/football/teams/9894.png,Estadio Manuel Trujillo,Calle Pablo Molina s/n,Almagro,2000.0,https://media.api-sports.io/football/venues/6972.png,
+ALBACETE II,,,https://media.api-sports.io/football/teams/9895.png,Ciudad Deportiva Andrés Iniesta,"Prolongación de la Avenida de España, s/n",Albacete,3000.0,https://media.api-sports.io/football/venues/6973.png,
+ALMANSA,,,https://media.api-sports.io/football/teams/9896.png,Polideportivo Municipal Paco Simón,,Almansa,5000.0,https://media.api-sports.io/football/venues/6974.png,
+ATLÉTICO IBAÑÉS,,,https://media.api-sports.io/football/teams/9897.png,Estádio Municipal de Casas Ibañés,,Casas-Ibañés,1800.0,https://media.api-sports.io/football/venues/6975.png,
+AZUQUECA,,,https://media.api-sports.io/football/teams/9898.png,Estadio San Miguel,Carretera Villanueva de la Torre,Azuqueca de Henares,2000.0,https://media.api-sports.io/football/venues/6976.png,
+CALVO SOTELO,,2015.0,https://media.api-sports.io/football/teams/9899.png,Estadio Ciudad de Puertollano,Avenida de Andalucía,Puertollano,7240.0,https://media.api-sports.io/football/venues/6977.png,10.0
+GUADALAJARA,,1947.0,https://media.api-sports.io/football/teams/9900.png,Estadio Pedro Escartín,Calle de Julián Besteiro 14,Guadalajara,7000.0,https://media.api-sports.io/football/venues/6978.png,78.0
+ILLESCAS,,,https://media.api-sports.io/football/teams/9901.png,Estadio Municipal de Illescas,,Illescas,1000.0,https://media.api-sports.io/football/venues/6979.png,
+LA RODA,ROD,1999.0,https://media.api-sports.io/football/teams/9902.png,Estadio Municipal,,La Roda,3000.0,https://media.api-sports.io/football/venues/6980.png,26.0
+LA SOLANA,,,https://media.api-sports.io/football/teams/9903.png,Estadio La Moheda,"Av. de la Paz, 9",La Solana,2000.0,https://media.api-sports.io/football/venues/6981.png,
+MADRIDEJOS,,,https://media.api-sports.io/football/teams/9904.png,Campo de Fútbol Nuevo,,Madridejos,4000.0,https://media.api-sports.io/football/venues/6982.png,
+MANCHEGO,,2009.0,https://media.api-sports.io/football/teams/9905.png,Polideportivo Juan Carlos I,Calle Juan Ramón Jiménez 4,Ciudad Real,2900.0,https://media.api-sports.io/football/venues/6983.png,16.0
+QUINTANAR DEL REY,,,https://media.api-sports.io/football/teams/9906.png,Estadio San Marcos,,Quintanar del Rey,2800.0,https://media.api-sports.io/football/venues/10993.png,
+TARANCÓN,,1995.0,https://media.api-sports.io/football/teams/9907.png,Polideportivo Estadio Municipal Tarancón,"Calle Antonio Machado, 42",Tarancón,1500.0,https://media.api-sports.io/football/venues/6984.png,30.0
+TOLEDO,TOL,1928.0,https://media.api-sports.io/football/teams/9908.png,Estadio Municipal Salto del Caballo,Calle Salto del Caballo,Toledo,5300.0,https://media.api-sports.io/football/venues/6985.png,97.0
+TORRIJOS,,,https://media.api-sports.io/football/teams/9909.png,Estadio San Francisco,,Torrijos,2500.0,https://media.api-sports.io/football/venues/6986.png,
+VILLACAÑAS,,,https://media.api-sports.io/football/teams/9910.png,Campo De Fútbol Las Pirámides,Avenida Estadio,Villacañas,2000.0,https://media.api-sports.io/football/venues/6987.png,
+CARTAGENA II,,,https://media.api-sports.io/football/teams/9990.png,,,,,,
+AD CEUTA FC,,1956.0,https://media.api-sports.io/football/teams/10139.png,Estadio Municipal Alfonso Murube,Avenida de Otero,Ceuta,7000.0,https://media.api-sports.io/football/venues/3969.png,69.0
+MÉRIDA AD,,2013.0,https://media.api-sports.io/football/teams/10140.png,Estadio Romano,Villafranca de los Barros,Mérida,14600.0,https://media.api-sports.io/football/venues/7132.png,12.0
+INTERNACIONAL,,,https://media.api-sports.io/football/teams/10143.png,,,,,,
+SANTA TERESA,,,https://media.api-sports.io/football/teams/15223.png,,,,,,
+REAL MADRID W,,2020.0,https://media.api-sports.io/football/teams/15224.png,Ciudad Deportiva Real Madrid Campo 11,"Parque de Valdebebas, 402",Madrid,3000.0,https://media.api-sports.io/football/venues/22055.png,5.0
+EIBAR W,,,https://media.api-sports.io/football/teams/15225.png,Estadio Municipal de Ipurúa,Calle de Ipurúa,Eibar,8050.0,https://media.api-sports.io/football/venues/1472.png,
+AGRUPACIÓN ESTUDIANTIL,,,https://media.api-sports.io/football/teams/15303.png,Estatio Municipal de Santa Isabel,Rúa de Tras Santa Isabel,Santiago de Compostela,2500.0,https://media.api-sports.io/football/venues/10967.png,
+ATIOS,,,https://media.api-sports.io/football/teams/15304.png,Campo de futbol do Carballo,"Lugar As Cavadas, 16",O Porriño,1500.0,https://media.api-sports.io/football/venues/10968.png,
+FISTERRA,,,https://media.api-sports.io/football/teams/15305.png,Campo de fútbol Ara Solis,"Aldea San Martiño de Abaixo, 70",Fisterra,1000.0,https://media.api-sports.io/football/venues/10969.png,
+RIBADUMIA,,,https://media.api-sports.io/football/teams/15306.png,Campo de Futbol de A Senra,Calle Valle inclán,Ribadumia,1000.0,https://media.api-sports.io/football/venues/10970.png,
+VIVEIRO,,1923.0,https://media.api-sports.io/football/teams/15307.png,Estadio Municipal de Cantarrana,Av. Vilalba,Viveiro,2000.0,https://media.api-sports.io/football/venues/10971.png,102.0
+CABECENSE,,1970.0,https://media.api-sports.io/football/teams/15308.png,Estadio Municipal Carlos Marchena,,Las Cabezas de San Juan,1000.0,https://media.api-sports.io/football/venues/10972.png,55.0
+CASTILLEJA,,,https://media.api-sports.io/football/teams/15309.png,Estadio Municipal Antonio Almendro,"Camino del solis s/n, Castilleja de la Cuesta",Castilleja de la Cuesta,1000.0,https://media.api-sports.io/football/venues/10973.png,
+LA PALMA,,,https://media.api-sports.io/football/teams/15310.png,Estadio Municipal,Calle Bollullos del Condado,La Palma del Condado,2000.0,https://media.api-sports.io/football/venues/10974.png,
+CARDASSAR,,,https://media.api-sports.io/football/teams/15311.png,Camp Municipal D'esports Sant Llorenç des Cardassar,,Sant Llorenç des Cardassar,1000.0,https://media.api-sports.io/football/venues/10975.png,
+GÉNOVA,,,https://media.api-sports.io/football/teams/15312.png,Camp de Futbol Génova,"Camí de Gènova a Sant Agustí, 2",Palma de Mallorca,800.0,https://media.api-sports.io/football/venues/10976.png,
+PE SANT JORDI,,,https://media.api-sports.io/football/teams/15313.png,Campo Municipal Kiko Serra,Carrer de l&apos;Arner,Sant Josep de sa Talaia,2000.0,https://media.api-sports.io/football/venues/10977.png,
+BULLENSE,,1931.0,https://media.api-sports.io/football/teams/15314.png,Estadio Nicolás de las Peñas,,Bullas,2000.0,https://media.api-sports.io/football/venues/10979.png,94.0
+LA UNIÓN ATLÉTICO,,2010.0,https://media.api-sports.io/football/teams/15315.png,Estadio Municipal,Plaza de los Sanchez,La Unión,3000.0,https://media.api-sports.io/football/venues/10980.png,15.0
+LORCA,LAH,,https://media.api-sports.io/football/teams/15316.png,Estadio Francisco Artés Carrasco,Carratera de Granada,Lorca,8120.0,https://media.api-sports.io/football/venues/2918.png,
+RACING MURCIA,,1913.0,https://media.api-sports.io/football/teams/15317.png,Polideportivo Municipal Virgen del Pasico,"Av. Roldan, s/n",Murcia,1000.0,https://media.api-sports.io/football/venues/10981.png,112.0
+CAMPANARIO,,,https://media.api-sports.io/football/teams/15318.png,Estadio de Municipal Santo Domingo,"Calle Ángel Maeso, Santo Domingo",El Ejido,7885.0,https://media.api-sports.io/football/venues/6830.png,
+CHINATO,,,https://media.api-sports.io/football/teams/15319.png,Estadio Eras de las Matas,,Cáceres,700.0,https://media.api-sports.io/football/venues/10983.png,
+BIDEZARRA,,,https://media.api-sports.io/football/teams/15320.png,Campo Bidezarra de Noain,Calle Arcos de Noain,Noain,2000.0,https://media.api-sports.io/football/venues/10984.png,
+CANTOLAGUA,,1927.0,https://media.api-sports.io/football/teams/15321.png,Estadio Municipal Cantolagua,Paseo Cantolagua,Sangüesa,600.0,https://media.api-sports.io/football/venues/10985.png,98.0
+RIVER EGA,,,https://media.api-sports.io/football/teams/15322.png,Estadio Andola,Camino del Canto del Rio,Andosilla,1500.0,https://media.api-sports.io/football/venues/10986.png,
+AGONCILLO,,,https://media.api-sports.io/football/teams/15323.png,Estadio San Roque,,Agoncillo,2000.0,https://media.api-sports.io/football/venues/10987.png,
+RACING RIOJA,,,https://media.api-sports.io/football/teams/15324.png,Estadio El Salvador,Barrio de Yagüe,Logroño,1161.0,https://media.api-sports.io/football/venues/6954.png,
+TEDEÓN,,,https://media.api-sports.io/football/teams/15325.png,Estadio San Miguel,Calle de Ebro,Navarrete,600.0,https://media.api-sports.io/football/venues/10988.png,
+CARIÑENA,,,https://media.api-sports.io/football/teams/15326.png,Campo de Futbol La Platera,Camino la Platera,Zaragoza,1000.0,https://media.api-sports.io/football/venues/10989.png,
+HUESCA II,,,https://media.api-sports.io/football/teams/15327.png,Complejo Deportivo San Jorge,"Calle Ricardo del Arco, 28",Huesca,1000.0,https://media.api-sports.io/football/venues/10990.png,
+SABIÑÁNIGO,,,https://media.api-sports.io/football/teams/15328.png,Estadio Joaquín Ascaso,Paseo de la Corona,Sabiñánigo,3800.0,https://media.api-sports.io/football/venues/10991.png,
+ÉPILA,,,https://media.api-sports.io/football/teams/15329.png,Estadio La Huerta,"Calle Alfonso I el Batallador, 17",Épila,1000.0,https://media.api-sports.io/football/venues/10992.png,
+HURACÁN BALAZOTE,,,https://media.api-sports.io/football/teams/15330.png,Estadio Municipal de Balazote,"Calle la Vega, 1T",Balazote,1000.0,https://media.api-sports.io/football/venues/10994.png,
+MANZANARES,,1949.0,https://media.api-sports.io/football/teams/15331.png,Estadio José Camacho,Antigua Carretera Madrid,Manzanares,3200.0,https://media.api-sports.io/football/venues/10995.png,76.0
+MARCHAMALO,,,https://media.api-sports.io/football/teams/15332.png,Estadio La Solana,,Marchamalo,2000.0,https://media.api-sports.io/football/venues/10996.png,
+AVILÉS STADIUM,,,https://media.api-sports.io/football/teams/15333.png,Campo Muro de Zaro,Calle Río Arlós,Avilés,5352.0,https://media.api-sports.io/football/venues/10997.png,
+REAL TITÁNICO,,,https://media.api-sports.io/football/teams/15334.png,Estadio De Fútbol Las Tolvas,"Calle de Tejera Nte., 17",Pola de Laviana,1500.0,https://media.api-sports.io/football/venues/10998.png,
+VALDESOTO,,,https://media.api-sports.io/football/teams/15335.png,Estadio Villarea. Valdesoto C.F.,,Asturias,1000.0,https://media.api-sports.io/football/venues/10999.png,
+CASTRO,,1952.0,https://media.api-sports.io/football/teams/15336.png,Estadio Mioño,Avenida de la Estación,Castro Urdiales,1000.0,https://media.api-sports.io/football/venues/12303.png,73.0
+REVILLA,,,https://media.api-sports.io/football/teams/15337.png,Estadio Municipal,El Crucero s/n,Revilla de Camargo,1000.0,https://media.api-sports.io/football/venues/11001.png,
+RINCONEDA POLANCO,,,https://media.api-sports.io/football/teams/15338.png,Campo Municipal de Polanco,Barrio Rinconeda,Polanco,1500.0,https://media.api-sports.io/football/venues/11002.png,
+CAYÓN,,1915.0,https://media.api-sports.io/football/teams/15339.png,Estadio Fernando Astobiza,Barrio de San Lázaro,"Sarón, Santa María de Cayón",2700.0,https://media.api-sports.io/football/venues/11003.png,110.0
+ANAITASUNA,,1934.0,https://media.api-sports.io/football/teams/15340.png,Campo Txerloia,Barrio de Txerloia,Azkoitia,1500.0,https://media.api-sports.io/football/venues/11006.png,91.0
+AURRERÁ ONDARROA,,,https://media.api-sports.io/football/teams/15341.png,Campo de fútbol de Zaldupe,,Ondarroa,2500.0,https://media.api-sports.io/football/venues/11007.png,
+URGATZI,,,https://media.api-sports.io/football/teams/15342.png,Futbol zelaia Olabide Gasteiz,Lasarte errepidea,Vitoria-Gasteiz,1000.0,https://media.api-sports.io/football/venues/11008.png,
+GIRONA II,,,https://media.api-sports.io/football/teams/15343.png,Camp de Futbol Torres de Palau,"Avinguda de Montilivi, 141",Girona,1000.0,https://media.api-sports.io/football/venues/11009.png,
+GRAMA,,,https://media.api-sports.io/football/teams/15344.png,Nou Camp Municipal de Santa Coloma,Avinguda de Can Peixauet,Santa Coloma de Gramenet,5000.0,https://media.api-sports.io/football/venues/11010.png,
+MONTAÑESA,,1927.0,https://media.api-sports.io/football/teams/15345.png,Estadio Municipal de Nou Barris,"Via Júlia 170, Nou Barris, Barrio Prosperitat",Barcelona,3000.0,https://media.api-sports.io/football/venues/11011.png,98.0
+VALLS,,,https://media.api-sports.io/football/teams/15346.png,Estadi Municipal del Vilar,Carrer Prat de la Riba,Valls,1000.0,https://media.api-sports.io/football/venues/11012.png,
+BENICARLÓ,,,https://media.api-sports.io/football/teams/15347.png,Estadio Angel Pichi Alonso,Av. de Méndez Núñez,Benicarló,1000.0,https://media.api-sports.io/football/venues/11013.png,
+TORRENT,,,https://media.api-sports.io/football/teams/15348.png,Estadio San Gregorio,Avenida Pérez Galdós,Torrent,4000.0,https://media.api-sports.io/football/venues/11014.png,
+VILLAJOYOSA,,1944.0,https://media.api-sports.io/football/teams/15349.png,Estadio Nou Pla,Calle Doctor Fleming 3,Villajoyosa / La Vila Joiosa,2765.0,https://media.api-sports.io/football/venues/11015.png,81.0
+COMPLUTENSE,,,https://media.api-sports.io/football/teams/15350.png,Campo de Fútbol Recinto Ferial,"Paseo de Aguadores, 7",Alcalá de Henares,1000.0,https://media.api-sports.io/football/venues/11017.png,
+MÓSTOLES CF,,,https://media.api-sports.io/football/teams/15351.png,Estadio Municipal de El Soto,Avenida de los Deportes,Móstoles,14000.0,https://media.api-sports.io/football/venues/6801.png,
+REAL ARANJUEZ,,1948.0,https://media.api-sports.io/football/teams/15352.png,Estadio El Deleite,"Paseo del Deleite, 1",Aranjuez,7000.0,https://media.api-sports.io/football/venues/11018.png,77.0
+VILLANUEVA PARDILLO,,,https://media.api-sports.io/football/teams/15353.png,Campo Municipal Juan Manuel Angelina,"Avenida de los Estudiantes, S/N",Villanueva del Pardillo,1500.0,https://media.api-sports.io/football/venues/12496.png,
+COLEGIOS DIOCESANOS,,,https://media.api-sports.io/football/teams/15354.png,Campo de fútbol de Sancti Spiritu A,Calle Radio Nacional de España,Ávila,1500.0,https://media.api-sports.io/football/venues/11020.png,
+CULTURAL CEBREREÑA,,,https://media.api-sports.io/football/teams/15355.png,Estadio El Mancho,Calle Villacastín,Cebreros,1000.0,https://media.api-sports.io/football/venues/11021.png,
+PEÑARANDA,,,https://media.api-sports.io/football/teams/15356.png,Campo Futbol Peñaranda de Bracamonte,"Av. de Salamanca, 16D",Peñaranda de Bracamonte,1500.0,https://media.api-sports.io/football/venues/11022.png,
+ALHAURINO,,,https://media.api-sports.io/football/teams/15357.png,Estadio Municipal Miguel Fijones,Carretera de Cartama,Alhaurín el Grande,1500.0,https://media.api-sports.io/football/venues/11023.png,
+ESTEPONA,,,https://media.api-sports.io/football/teams/15358.png,Estadio Municipal Francisco Muñoz Pérez,Avenida Juan Carlos I,Estepona,7300.0,https://media.api-sports.io/football/venues/11024.png,
+JUVENTUD TORREMOLINOS,,,https://media.api-sports.io/football/teams/15359.png,Campo Municipal El Pozuelo,,Torremolinos,3000.0,https://media.api-sports.io/football/venues/11025.png,
+ARUCAS,,,https://media.api-sports.io/football/teams/15472.png,Complejo Antonio Afonso Moreno (Tonono),Lugar Barreto 20A,Arucas,2000.0,https://media.api-sports.io/football/venues/11046.png,
+ATLÉTICO VICTORIA,,1996.0,https://media.api-sports.io/football/teams/15473.png,Estadio Munincipal,,Tenerife,2000.0,https://media.api-sports.io/football/venues/11047.png,29.0
+GUÍA,,,https://media.api-sports.io/football/teams/15474.png,Estadio Octavio Estevez de Guia de Gran Canaria,,Las Palmas,1000.0,https://media.api-sports.io/football/venues/11048.png,
+AUGC DEPORTIVA,,,https://media.api-sports.io/football/teams/15523.png,,,,,,
+BUÑOL,,1921.0,https://media.api-sports.io/football/teams/15524.png,Beltrán Baguena,,Buñol,3000.0,https://media.api-sports.io/football/venues/11067.png,104.0
+CF RUSADIR,,,https://media.api-sports.io/football/teams/15525.png,,,,,,
+MIENGO,,,https://media.api-sports.io/football/teams/15526.png,,,,,,
+RINCÓN,,1964.0,https://media.api-sports.io/football/teams/15527.png,Estadio Francisco Romero,Cortijo Trigueros,Rincón de la Victoria,1000.0,https://media.api-sports.io/football/venues/11068.png,61.0
+TOMARES,,,https://media.api-sports.io/football/teams/15528.png,Estadio Municipal San Sebastián,Avenida del Aljarafe,Tomares,2500.0,https://media.api-sports.io/football/venues/12328.png,
+BARBATE,,,https://media.api-sports.io/football/teams/17007.png,,,,,,
+DEPORTIVO ALAVÉS,,,https://media.api-sports.io/football/teams/17168.png,,,,,,
+VILLARREAL W,,,https://media.api-sports.io/football/teams/17169.png,,,,,,
+AMURRIO CLUB,,1949.0,https://media.api-sports.io/football/teams/17315.png,Estadio Basarte,Calle Abiaga 1,Amurrio,3500.0,https://media.api-sports.io/football/venues/12294.png,76.0
+BERRON,,,https://media.api-sports.io/football/teams/17316.png,,,,,,
+ANDORRA CF,,1956.0,https://media.api-sports.io/football/teams/17498.png,Estadio Juan Antonio Endeiza,,Teruel,3000.0,https://media.api-sports.io/football/venues/12521.png,69.0
+ATARFE INDUSTRIAL,,1931.0,https://media.api-sports.io/football/teams/17499.png,Estadio Municipal,Avenida Diputación 67,Atarfe,3000.0,https://media.api-sports.io/football/venues/12522.png,94.0
+ATL. BENAMIEL,,,https://media.api-sports.io/football/teams/17500.png,,,,,,
+ATLÉTICO ARNOIA,,,https://media.api-sports.io/football/teams/17501.png,Campo de Fútbol Municipal de Barreiro,"Avenida de Ramón Nieto 326, Barreiro",Vigo,4500.0,https://media.api-sports.io/football/venues/6665.png,
+ATLÉTICO MANSILLÉS,,,https://media.api-sports.io/football/teams/17502.png,,,,,,
+DON ÁLVARO,,,https://media.api-sports.io/football/teams/17510.png,Estadio Municipal Pedro Manuel Barrero Macias,"C. Naranjos, 19",Don Álvaro,1000.0,https://media.api-sports.io/football/venues/12358.png,
+GALAPAGAR,,,https://media.api-sports.io/football/teams/17516.png,Estadio Galapagar,"C. Guadarrama, 129, Galapagar",Madrid,1000.0,https://media.api-sports.io/football/venues/12318.png,
+GUINEUETA,,,https://media.api-sports.io/football/teams/17522.png,Centre Esportiu de La Guineueta,Carrer del Castor,Barcelona,1000.0,https://media.api-sports.io/football/venues/12310.png,
+L'ESCALA,,1912.0,https://media.api-sports.io/football/teams/17528.png,Estadi Municipal,Carrer Àncora,L&apos;Escala,1000.0,https://media.api-sports.io/football/venues/20156.png,113.0
+LA UNION,,2012.0,https://media.api-sports.io/football/teams/17529.png,Estadio Municipal,,La Unión,3000.0,https://media.api-sports.io/football/venues/10980.png,13.0
+MIGUELTURREÑO,,,https://media.api-sports.io/football/teams/17531.png,Estadio Municipal Miguelturra,P.º de Castilla la Mancha,Miguelturra,3000.0,https://media.api-sports.io/football/venues/12357.png,
+MURENSE,,1960.0,https://media.api-sports.io/football/teams/17532.png,Camp de Fútbol de Muro,"Carrer Poliesportiu, 0",Muro,3000.0,https://media.api-sports.io/football/venues/12332.png,65.0
+NOIA,,1928.0,https://media.api-sports.io/football/teams/17534.png,Campo Futbol San Lazaro Noia,Rúa Bolivia,Noia,1000.0,https://media.api-sports.io/football/venues/12298.png,97.0
+NOJA,NOJ,1940.0,https://media.api-sports.io/football/teams/17535.png,Campo La Caseta,Avenida del Brusco,Noja,3000.0,https://media.api-sports.io/football/venues/12304.png,85.0
+PALENCIA CF,,,https://media.api-sports.io/football/teams/17538.png,Estadio La Nueva Balastera,Avenida de Cataluña 12,Palencia,12500.0,https://media.api-sports.io/football/venues/6817.png,
+TORRE DEL MAR,,,https://media.api-sports.io/football/teams/17558.png,Estadio Juan Manuel Azuaga,Av. Juan Carlos I,Torre del Mar,2000.0,https://media.api-sports.io/football/venues/12326.png,
+TORRELLANO,,2012.0,https://media.api-sports.io/football/teams/17559.png,Polideportivo Isabel Fernández,,Torrellano,2000.0,https://media.api-sports.io/football/venues/12315.png,13.0
+TRES CANTOS,,,https://media.api-sports.io/football/teams/17560.png,Campo Municipal de Fútbol Foresta A,"Av de la Vega, Sector Foresta",Tres Cantos,2000.0,https://media.api-sports.io/football/venues/12319.png,
+UD SAN PEDRO,,1973.0,https://media.api-sports.io/football/teams/17562.png,Estadio Municipal,Polideportivo Guadaiza,San Pedro de Alcántara,5000.0,https://media.api-sports.io/football/venues/12327.png,52.0
+VILLAVICIOSA ODÓN,,1971.0,https://media.api-sports.io/football/teams/17567.png,Estadio Nuevo Municipal Villaviciosa de Odón,Calle Alexander Graham Bell,Villaviciosa de Odón,3000.0,https://media.api-sports.io/football/venues/12320.png,54.0
+JUVENIL PONTEAREAS,,,https://media.api-sports.io/football/teams/17577.png,Estadio Municipal de Pardellas,Calle Freixa,Ponteareas,1000.0,https://media.api-sports.io/football/venues/12299.png,
+SOFÁN,,,https://media.api-sports.io/football/teams/17578.png,Campo del Sofan,"AC-413, 10",La Coruña,1000.0,https://media.api-sports.io/football/venues/12300.png,
+LANGREO II,,,https://media.api-sports.io/football/teams/17579.png,Estadio Nuevo Ganzábal,Calle Dolores Ibárruri,"La Felguera, Langreo",4024.0,https://media.api-sports.io/football/venues/3979.png,
+LUARCA,,1912.0,https://media.api-sports.io/football/teams/17580.png,Estadio La Veigona,Avenida de la Argentina,Luarca,1500.0,https://media.api-sports.io/football/venues/12301.png,113.0
+ROCES,,1950.0,https://media.api-sports.io/football/teams/17581.png,Campo de Fútbol Covadonga,"Calle Sor Juana Inés de la Cruz, 5",Gijón,1000.0,https://media.api-sports.io/football/venues/12302.png,75.0
+COLINDRES,,1965.0,https://media.api-sports.io/football/teams/17582.png,Campos del Carmen,Calle Ría del Asón,Colindres,2500.0,https://media.api-sports.io/football/venues/12305.png,60.0
+BETI GAZTE,,,https://media.api-sports.io/football/teams/17584.png,Campo de fútbol de Mastegi,"C. Koskontako Bidea, 15",Lesaka,1500.0,https://media.api-sports.io/football/venues/12307.png,
+URITARRA,,,https://media.api-sports.io/football/teams/17585.png,Estadio Errebale,Errebale,Larrabetzu,1500.0,https://media.api-sports.io/football/venues/12308.png,
+ASCÓ,,2010.0,https://media.api-sports.io/football/teams/17586.png,Estadio Municipal d'Ascó,Carrer Joan XXIII,Ascó,1500.0,https://media.api-sports.io/football/venues/12311.png,15.0
+CALLOSA DEPORTIVA,,,https://media.api-sports.io/football/teams/17587.png,Campo de Fútbol El Palmeral,"C. Zorrilla, 10",Callosa de Segura,1000.0,https://media.api-sports.io/football/venues/12316.png,
+CASTELLÓN II,,,https://media.api-sports.io/football/teams/17588.png,Ciudad Deportiva FACSA,"Cuadra Colomera, 9",Castellón de la Plana,1000.0,https://media.api-sports.io/football/venues/12317.png,
+COLONIA MOSCARDÓ,,,https://media.api-sports.io/football/teams/17589.png,Estadio Román Valero,Calle de Andrés Arteaga,Madrid,14000.0,https://media.api-sports.io/football/venues/12321.png,
+MADRID 2021 FP,,2020.0,https://media.api-sports.io/football/teams/17590.png,Estadio La Aldehuela,Calle de la Fuente,Fuenlabrada,5000.0,https://media.api-sports.io/football/venues/12322.png,5.0
+URSARIA,,,https://media.api-sports.io/football/teams/17591.png,Estadio Polideportivo la Dehesa,Cobeña,Madrid,1500.0,https://media.api-sports.io/football/venues/12323.png,
+CIUDAD RODRIGO,,,https://media.api-sports.io/football/teams/17592.png,Estadio Municipal de Fútbol Francisco Mateos,"Calle Sta. Clara, 136 Ciudad Rodrigo",Salamanca,1000.0,https://media.api-sports.io/football/venues/12324.png,
+RIBERT,,,https://media.api-sports.io/football/teams/17593.png,Pistas del Helmántico,Carretera de Zamora,Salamanca,4000.0,https://media.api-sports.io/football/venues/3995.png,
+INTERGYM,,,https://media.api-sports.io/football/teams/17594.png,Estadio La Espiguera,Calle Alfonso X,Melilla,2000.0,https://media.api-sports.io/football/venues/5461.png,
+CARTAYA,,,https://media.api-sports.io/football/teams/17595.png,Estadio Municipal Luis Rodriguez Salvador,"Carretera Cartaya-El Rompido, Km. 1",Cartaya,3072.0,https://media.api-sports.io/football/venues/12329.png,
+CEUTA II,,,https://media.api-sports.io/football/teams/17596.png,Estadio Municipal Alfonso Murube,Avenida de Otero,Ceuta,7000.0,https://media.api-sports.io/football/venues/3969.png,
+CAMPOS,,,https://media.api-sports.io/football/teams/17597.png,Camp Municipal d'Esports de Campos,"Camí Vell de Ciutat, 0",Mallorca,1500.0,https://media.api-sports.io/football/venues/12333.png,
+INTER IBIZA,,,https://media.api-sports.io/football/teams/17598.png,Estadio Can Canto,"Carrer des Cubells, 12",Ibiza,1000.0,https://media.api-sports.io/football/venues/12334.png,
+MERCADAL,,,https://media.api-sports.io/football/teams/17599.png,Estadio San Martì,,Menorca,1000.0,https://media.api-sports.io/football/venues/12335.png,
+ROTLET MOLINAR,,,https://media.api-sports.io/football/teams/17600.png,Camp De Futbol Municipal,"Calle San Saul, El Molinar",Palma de Mallorca,1500.0,https://media.api-sports.io/football/venues/12336.png,
+SERVERENSE,,,https://media.api-sports.io/football/teams/17601.png,Estadio Son Servera,Calle Hospital,"Son Servera, Illes Balears",3000.0,https://media.api-sports.io/football/venues/12337.png,
+SON VERI,,,https://media.api-sports.io/football/teams/17602.png,Estadio Son Verí,Calle de Cala Blava,S&apos;Arenal de Llucmajor,2000.0,https://media.api-sports.io/football/venues/12338.png,
+HERBANIA,,,https://media.api-sports.io/football/teams/17603.png,Estadio Municipal de Los Pozos,Calle Carretera los Pozos,Puerto Rosario,2000.0,https://media.api-sports.io/football/venues/6878.png,
+LAS ZOCAS,,,https://media.api-sports.io/football/teams/17604.png,Estadio Juanito Marrero,Las Zocas,Tenerife,3000.0,https://media.api-sports.io/football/venues/12341.png,
+UNIÓN SUR YAIZA,,1983.0,https://media.api-sports.io/football/teams/17605.png,Estadio Municipal de Yaiza,,Lanzarote,2000.0,https://media.api-sports.io/football/venues/12342.png,42.0
+ARCHENA SPORT,,,https://media.api-sports.io/football/teams/17606.png,Campo Futbol Archena,"Av. del Río Segura, s/n",Archena,1000.0,https://media.api-sports.io/football/venues/12343.png,
+BALA AZUL,,1968.0,https://media.api-sports.io/football/teams/17607.png,Estadio Playa Sol,,Puerto de Mazarrón,4500.0,https://media.api-sports.io/football/venues/12344.png,57.0
+UD CARAVACA,,,https://media.api-sports.io/football/teams/17608.png,Complejo Deportivo Francisco Fernández Torralba,Calle Juan a Ruiz Piñero 24,Caravaca de la Cruz,1000.0,https://media.api-sports.io/football/venues/12345.png,
+AVANCE EZCABARTE,,1973.0,https://media.api-sports.io/football/teams/17609.png,Campo Igueldea,Calle De Igueldea,Arre,1000.0,https://media.api-sports.io/football/venues/12346.png,52.0
+AZKOYEN,,,https://media.api-sports.io/football/teams/17610.png,Estadio Las Luchas,Calle del Valle de Salazar,Navarra,1800.0,https://media.api-sports.io/football/venues/12347.png,
+GARES,,,https://media.api-sports.io/football/teams/17611.png,Complejo Polideportivo Municipal Osabidea,"Paseo Osabidea, 2",Puente la Reina,1000.0,https://media.api-sports.io/football/venues/12348.png,
+CENICERO,,1984.0,https://media.api-sports.io/football/teams/17612.png,Estadio de Las Viñas,,Cenicero,1200.0,https://media.api-sports.io/football/venues/12350.png,41.0
+RAPID DE MURILLO,,,https://media.api-sports.io/football/teams/17613.png,Estadio El Rozo,,Murillo de Río Leza,1000.0,https://media.api-sports.io/football/venues/12351.png,
+BIESCAS,,,https://media.api-sports.io/football/teams/17614.png,Campo Municipal De Futbol Fernando Escartin Coti,N-260,Biescas,1000.0,https://media.api-sports.io/football/venues/12353.png,
+CASPE,,,https://media.api-sports.io/football/teams/17615.png,Estadio Los Rosales,Calle Autonomia,Caspe,1000.0,https://media.api-sports.io/football/venues/12354.png,
+GINER TORRERO,,,https://media.api-sports.io/football/teams/17616.png,Estadio Municipal de Torrero,,Zaragoza,500.0,https://media.api-sports.io/football/venues/12355.png,
+SANTA ANASTASIA,,,https://media.api-sports.io/football/teams/17617.png,Estadio Fontanazas,C. Moncayo,Santa Anastasia,1000.0,https://media.api-sports.io/football/venues/12356.png,
+HOGAR ALCARREÑO,,,https://media.api-sports.io/football/teams/17618.png,,,,,,
+SAN CLEMENTE,,,https://media.api-sports.io/football/teams/17619.png,Estadio Municipal San Clemente,"Cam. Cuenca, 4",San Clemente,1500.0,https://media.api-sports.io/football/venues/20167.png,
+BADAJOZ II,,,https://media.api-sports.io/football/teams/17621.png,Estadio Municipal Nuevo Vivero,Avenida de la Granadilla,Badajoz,15198.0,https://media.api-sports.io/football/venues/6484.png,
+VILLARREAL U19,,,https://media.api-sports.io/football/teams/17702.png,,,,,,
+CARTAGENA LU II,,,https://media.api-sports.io/football/teams/17715.png,Escuela de Fútbol Ciudad Jardín,"Calle Carmen Conde, 75, Ciudad Jardín",Cartagena,2000.0,https://media.api-sports.io/football/venues/10978.png,
+BETIS DE HADÚ,,,https://media.api-sports.io/football/teams/18003.png,,,,,,
+ALDEANO,,,https://media.api-sports.io/football/teams/18087.png,Estadio San Bartolomé,,Ribaforada,2000.0,https://media.api-sports.io/football/venues/12579.png,
+ATLÉTICO ESPELEÑO,,,https://media.api-sports.io/football/teams/18088.png,Campo de Fútbol Municipal,Callejón De Ginés,Espiel,5000.0,https://media.api-sports.io/football/venues/12580.png,
+CEUTA 6 DE JUNIO,,2020.0,https://media.api-sports.io/football/teams/18090.png,,,,,,5.0
+HERNANI,,,https://media.api-sports.io/football/teams/18091.png,Estadio Zubipe,La Florida Poligonoa,Guipúzcoa,6820.0,https://media.api-sports.io/football/venues/12581.png,
+HURACÁN MELILLA,,,https://media.api-sports.io/football/teams/18092.png,Estadio La Espiguera,Calle Alfonso X,Melilla,2000.0,https://media.api-sports.io/football/venues/5461.png,
+INJERTO,,,https://media.api-sports.io/football/teams/18093.png,,,,,,
+JARAÍZ,,,https://media.api-sports.io/football/teams/18094.png,Campo de fútbol de Jaraíz de la Vera,,Jaraíz de la Vera,1000.0,https://media.api-sports.io/football/venues/20165.png,
+LAGUNA,,1984.0,https://media.api-sports.io/football/teams/18095.png,Estadio Francisco Peraza,Calle Fuente Cañizares,Tenerife,8000.0,https://media.api-sports.io/football/venues/12582.png,41.0
+MOLLERUSSA,,,https://media.api-sports.io/football/teams/18096.png,Camp Municipal d'Esports,"Camí Vell de Miralcamp, 1",Mollerussa,4000.0,https://media.api-sports.io/football/venues/20157.png,
+NALÓN,,1958.0,https://media.api-sports.io/football/teams/18097.png,Estadio Municipal de Fumea,Barrio de Fumea,Olloniego,300.0,https://media.api-sports.io/football/venues/12583.png,67.0
+PENYA INDEPENDENT,,,https://media.api-sports.io/football/teams/18098.png,Camp de Futbol Municipal de Sant Miquel de Balansat,Sant Joan de Labritja,Sant Miquel de Balansat,1000.0,https://media.api-sports.io/football/venues/20144.png,
+SAN AGUSTÍN,,,https://media.api-sports.io/football/teams/18099.png,Campo De Futbol San Agustin De Guadalix,"Calle Félix Cimas Prados, 1",San Agustín del Guadalix,2000.0,https://media.api-sports.io/football/venues/12584.png,
+UNAMI,,1983.0,https://media.api-sports.io/football/teams/18100.png,Estadio Municipal de La Albuera,Ciudad Deportiva de La Albuera,Segovia,3000.0,https://media.api-sports.io/football/venues/6489.png,42.0
+UTRILLAS,,,https://media.api-sports.io/football/teams/18101.png,Estadio La Vega,C. la Vega,Utrillas,1800.0,https://media.api-sports.io/football/venues/19166.png,
+VICTORIA CF,,,https://media.api-sports.io/football/teams/18102.png,,,,,,
+VILLA DE FORTUNA,,,https://media.api-sports.io/football/teams/18103.png,,,,,,
+JEREZ INDUSTRIAL,,,https://media.api-sports.io/football/teams/18167.png,Estadio de La Juventud,Avenida de Blas Infante,Jerez de la Frontera,8000.0,https://media.api-sports.io/football/venues/6853.png,
+RACING GUÍA NORTE ASTUR,,,https://media.api-sports.io/football/teams/18169.png,,,,,,
+SANTBOIÀ,,1908.0,https://media.api-sports.io/football/teams/18171.png,Estadio Municipal Joan Baptista Milà,Ronda Sant Ramon 159,Sant Boi de Llobregat,5206.0,https://media.api-sports.io/football/venues/12636.png,117.0
+ATLETICO ARTEIXO,,,https://media.api-sports.io/football/teams/19649.png,,,,,,
+ATLÉTICO ARTEIXO,,,https://media.api-sports.io/football/teams/19650.png,Estadio Municipal Arteixo,"Av. Arsenio Iglesias, 37",Arteixo,1000.0,https://media.api-sports.io/football/venues/19133.png,
+MURO,,1930.0,https://media.api-sports.io/football/teams/19697.png,Estadio La Llometa,,Muro d&apos;Alcoi,2000.0,https://media.api-sports.io/football/venues/19274.png,95.0
+SAN SERVÁN,,,https://media.api-sports.io/football/teams/19710.png,,,,,,
+ALHAMA,,,https://media.api-sports.io/football/teams/19895.png,Campo Municipal de Fútbol José Kubala,Camino de los Tejares,Alhama de Murcia,2500.0,https://media.api-sports.io/football/venues/22056.png,
+FC LEVANTE BADALONA,,,https://media.api-sports.io/football/teams/19896.png,Estadi Municipal de Badalona,"Avenida dels Vents 7, Barrio de Montigalà",Badalona,4384.0,https://media.api-sports.io/football/venues/3964.png,
+LEVANTE U20,,,https://media.api-sports.io/football/teams/19924.png,,,,,,
+VALENCIA U20,,,https://media.api-sports.io/football/teams/19926.png,,,,,,
+VILLARREAL U20,,,https://media.api-sports.io/football/teams/19927.png,,,,,,
+CELTA DE VIGO III,,,https://media.api-sports.io/football/teams/20255.png,Campo de Fútbol Municipal de Barreiro,"Avenida de Ramón Nieto 326, Barreiro",Vigo,4500.0,https://media.api-sports.io/football/venues/6665.png,
+AYAMONTE,,,https://media.api-sports.io/football/teams/20256.png,Estadio Ciudad de Ayamonte,Avenida de la Playa,Ayamonte,5500.0,https://media.api-sports.io/football/venues/19134.png,
+BOLLULLOS,,,https://media.api-sports.io/football/teams/20257.png,Estadio Eloy Ávila Cano Bollullos,"C. Guatemala, S/N",Bollullos Par del Condado,3000.0,https://media.api-sports.io/football/venues/19135.png,
+GAMA,,,https://media.api-sports.io/football/teams/20258.png,Estadio Santa María,"Calle El Ferial, Gama",Bárcena de Cicero,500.0,https://media.api-sports.io/football/venues/19136.png,
+AURRERÁ VITORIA,,1935.0,https://media.api-sports.io/football/teams/20259.png,Estadio Olaranbe,Carretera Otazu (Puente Alto),Vitoria-Gasteiz,4000.0,https://media.api-sports.io/football/venues/6744.png,90.0
+PADURA,,,https://media.api-sports.io/football/teams/20260.png,Estadio Santo Cristo,"Cristo Zeharkalea, 13",Arrigorriaga,1500.0,https://media.api-sports.io/football/venues/19137.png,
+TOURING,,1945.0,https://media.api-sports.io/football/teams/20261.png,Campo de Fútbol Fandería,"Touring Hiribidea, 2",Errenteria,1500.0,https://media.api-sports.io/football/venues/19138.png,80.0
+BADALONA II,,,https://media.api-sports.io/football/teams/20262.png,Estadi Municipal de Badalona,"Avenida dels Vents 7, Barrio de Montigalà",Badalona,4384.0,https://media.api-sports.io/football/venues/3964.png,
+RAPITENCA,,1930.0,https://media.api-sports.io/football/teams/20263.png,Estadio La Devesa,Carrer del Doctor Torné 4,Sant Carles de la Ràpita,5000.0,https://media.api-sports.io/football/venues/19139.png,95.0
+TONA,,,https://media.api-sports.io/football/teams/20264.png,Estadio Municipal Tona,"Carrer Jaume Balmes, 57",Tona,2000.0,https://media.api-sports.io/football/venues/19140.png,
+CF GANDÍA,,,https://media.api-sports.io/football/teams/20265.png,Estadio Guillermo Olagüe,Avenida del sports,Gandía,4800.0,https://media.api-sports.io/football/venues/19141.png,
+PATACONA,,,https://media.api-sports.io/football/teams/20266.png,Campo Municipal de la Patacona,Av. de la Sierra Calderona,Alboraya,1000.0,https://media.api-sports.io/football/venues/19142.png,
+RAYO IBENSE,,,https://media.api-sports.io/football/teams/20267.png,Estadio Francisco Vilaplana Mariel,,Alicante,11000.0,https://media.api-sports.io/football/venues/19143.png,
+CANILLAS,,1961.0,https://media.api-sports.io/football/teams/20268.png,Estadio Canillas,"Calle Agustín de Iturbide, 1",Madrid,1000.0,https://media.api-sports.io/football/venues/19148.png,64.0
+COLLADO VILLALBA,,,https://media.api-sports.io/football/teams/20269.png,Ciudad Deportiva Collado Villalba,,Collado Villalba,2000.0,https://media.api-sports.io/football/venues/19149.png,
+RSC INTERNACIONAL,,,https://media.api-sports.io/football/teams/20270.png,Campo Asociacion Vecinos Orcasitas,Calle del Camino Viejo de Villaverde,Madrid,1000.0,https://media.api-sports.io/football/venues/19150.png,
+PONFERRADINA II,,,https://media.api-sports.io/football/teams/20271.png,Estadio El Toralín,Avenida de Asturias,Ponferrada,8800.0,https://media.api-sports.io/football/venues/3708.png,
+ARENAS ARMILLA,,,https://media.api-sports.io/football/teams/20272.png,Estadio Nuevo Municipal,Calle Acequia Palo 2,Armilla,2000.0,https://media.api-sports.io/football/venues/19152.png,
+CE SANT JORDI,,,https://media.api-sports.io/football/teams/20273.png,,,,,,
+INTER MANACOR,,,https://media.api-sports.io/football/teams/20274.png,Poliesportiu Municipal Na Capellera,Ronda de l&apos;Institut 52,Manacor,3000.0,https://media.api-sports.io/football/venues/20162.png,
+ESTRELLA,,,https://media.api-sports.io/football/teams/20275.png,Estadio Las Palmitas,Sardina Del Sur,Gran Canaria,3500.0,https://media.api-sports.io/football/venues/19153.png,
+ALCANTARILLA,,,https://media.api-sports.io/football/teams/20276.png,Polideportivo Municipal Ángel Sornichero,Calle Maestra Dolores Menseguer,Alcantarilla,4000.0,https://media.api-sports.io/football/venues/19154.png,
+CIEZA,,1970.0,https://media.api-sports.io/football/teams/20277.png,Estadio de La Arboleja,Av. de la Arboleja,Cieza,5500.0,https://media.api-sports.io/football/venues/19155.png,55.0
+UNIÓN MOLINENSE,,2022.0,https://media.api-sports.io/football/teams/20278.png,Estadio Municipal Sánchez Cánovas,Avenida de la Huerta,Molina de Segura,1500.0,https://media.api-sports.io/football/venues/19156.png,3.0
+ATLÉTICO PUEBLONUEVO,,1969.0,https://media.api-sports.io/football/teams/20279.png,Estadio Antonio Amaya,Calle Ronda de Poniente,Pueblonuevo del Guadiana,3150.0,https://media.api-sports.io/football/venues/19158.png,56.0
+LA ESTRELLA,,,https://media.api-sports.io/football/teams/20280.png,Estadio Municipal Cipriano Tinoco,Calle Las Huertas,Los Santos de Maimona,2500.0,https://media.api-sports.io/football/venues/19159.png,
+MONTEHERMOSO,,,https://media.api-sports.io/football/teams/20281.png,Campo de Fútbol CP Montehermoso,"Ctra. Pozuelo, 66",Montehermoso,1000.0,https://media.api-sports.io/football/venues/19160.png,
+ALESVES,,,https://media.api-sports.io/football/teams/20282.png,Estadio Municipal El Palomar,"Camino el Palomar, 8",Villafranca,1000.0,https://media.api-sports.io/football/venues/19161.png,
+LAGUNAK,,,https://media.api-sports.io/football/teams/20283.png,Estadio Municipal de Lagunak,Avenida Plaza Norte,Barañáin,500.0,https://media.api-sports.io/football/venues/19162.png,
+OBERENA,,1940.0,https://media.api-sports.io/football/teams/20284.png,Estadio Oberena,Calle Sebastian Albero,Pamplona,2500.0,https://media.api-sports.io/football/venues/19163.png,85.0
+PEÑA BALSAMAISO,,1952.0,https://media.api-sports.io/football/teams/20285.png,Estadio La Estrella,,Logroño,500.0,https://media.api-sports.io/football/venues/6944.png,73.0
+RACING RIOJA II,,,https://media.api-sports.io/football/teams/20286.png,Estadio El Salvador,Barrio de Yagüe,Logroño,1161.0,https://media.api-sports.io/football/venues/6954.png,
+LA ALMUNIA,,1966.0,https://media.api-sports.io/football/teams/20287.png,Campo de Fútbol Municipal Tenerías,Carrera de las Tenerías,La Almunia de Doña Godina,2000.0,https://media.api-sports.io/football/venues/19167.png,59.0
+ATLÉTICO TOMELLOSO,,2012.0,https://media.api-sports.io/football/teams/20288.png,Estadio Municipal Paco Gálvez,"Avenida Don Antonio Huertas, 71",Tomelloso,5000.0,https://media.api-sports.io/football/venues/19168.png,13.0
+TALAVERA II,,2020.0,https://media.api-sports.io/football/teams/20289.png,Estadio Diego Mateo Zarra,"Carretera Los Navalmorales, Km. 104",Talavera de la Reina,2000.0,https://media.api-sports.io/football/venues/19169.png,5.0
+REAL UNIÓN DE TENERIFE,,,https://media.api-sports.io/football/teams/20375.png,,,,,,
+ALCORA,,,https://media.api-sports.io/football/teams/20437.png,,,,,,
+ALGAR,,,https://media.api-sports.io/football/teams/20438.png,Estadio Sánchez Luengo,"Carr. San Javier, 77A",El Algar,1000.0,https://media.api-sports.io/football/venues/19291.png,
+AMIGÓ,,,https://media.api-sports.io/football/teams/20439.png,,,,,,
+ATLÉTICO LUGONES,,,https://media.api-sports.io/football/teams/20440.png,Estadio Santa Bárbara,,Lugones,1500.0,https://media.api-sports.io/football/venues/19292.png,
+AUTOL,,,https://media.api-sports.io/football/teams/20441.png,Estadio La Manzanera,"Paseo Cidacos, 35",Autol,1000.0,https://media.api-sports.io/football/venues/19293.png,
+BARBADÁS,,1998.0,https://media.api-sports.io/football/teams/20442.png,Estadio Os Carrís,,Barbadás,1500.0,https://media.api-sports.io/football/venues/19294.png,27.0
+CAZALEGAS,,,https://media.api-sports.io/football/teams/20443.png,Ciudad Deportiva Ebora Formación,"Calle Saturno, 5",Cazalegas,1000.0,https://media.api-sports.io/football/venues/21125.png,
+DINAMO SAN JUAN,,,https://media.api-sports.io/football/teams/20444.png,,,,,,
+FUENTES,,,https://media.api-sports.io/football/teams/20445.png,Campo de fútbol San Miguel de Fuentes de Ebro,"Cam. Valoca, 17",Fuentes de Ebro,3000.0,https://media.api-sports.io/football/venues/21082.png,
+LOS YÉBENES SB,,1970.0,https://media.api-sports.io/football/teams/20446.png,Estadio Eustasio Casallo,Calle Los Yebenes 110,Madrid,1000.0,https://media.api-sports.io/football/venues/19295.png,55.0
+MONTILLA,,1973.0,https://media.api-sports.io/football/teams/20447.png,Estadio Municipal,Avenida de las Camachas,Montilla,5000.0,https://media.api-sports.io/football/venues/19296.png,52.0
+SANTA AMALIA,,1969.0,https://media.api-sports.io/football/teams/20448.png,Estadio Municipal de Santa Amalia,,Santa Amalia,1700.0,https://media.api-sports.io/football/venues/19297.png,56.0
+TURÉGANO,,,https://media.api-sports.io/football/teams/20449.png,,,,,,
+UNIVERSITARIO FC,,,https://media.api-sports.io/football/teams/20450.png,,,,,,
+VELARDE,,,https://media.api-sports.io/football/teams/20451.png,Estadio Municipal de La Maruca,Calle de los Hermanos Torre Oruña,Muriedas,5000.0,https://media.api-sports.io/football/venues/19298.png,
+CP EJIDO,,1969.0,https://media.api-sports.io/football/teams/21510.png,Estadio de Municipal Santo Domingo,,,7885.0,https://media.api-sports.io/football/venues/19798.png,56.0
+CHICLANA,,,https://media.api-sports.io/football/teams/21905.png,,,,,,
+ELCHE U20,,,https://media.api-sports.io/football/teams/22012.png,,,,,,
+GRANADA,,,https://media.api-sports.io/football/teams/22018.png,Ciudad Deportiva del Granada CF,Crta. de Alfacar,Granada,1000.0,https://media.api-sports.io/football/venues/6692.png,
+MONTECASILLAS,,,https://media.api-sports.io/football/teams/22110.png,Campo De Fútbol Montecasillas,"C. José Acero, 3D",Murcia,1000.0,https://media.api-sports.io/football/venues/20319.png,
+RACING CARTAGENA MM,,2023.0,https://media.api-sports.io/football/teams/22116.png,,,,,,2.0
+TEROR,,1956.0,https://media.api-sports.io/football/teams/22122.png,Estadio Municipal El Pino,Calle Los Deportistas,Gran Canaria,1500.0,https://media.api-sports.io/football/venues/20164.png,69.0
+BETANZOS,,1952.0,https://media.api-sports.io/football/teams/22128.png,Estadio García Hermanos,,Betanzos,5000.0,https://media.api-sports.io/football/venues/20150.png,73.0
+PONTEVEDRA II,,,https://media.api-sports.io/football/teams/22129.png,Estadio Municipal de Pasarón,Calle de Luis Otero,Pontevedra,16500.0,https://media.api-sports.io/football/venues/6508.png,
+SARRIANA,,,https://media.api-sports.io/football/teams/22130.png,Estadio Municipal De Ribela,Rúa de Pacios,Sarria,5000.0,https://media.api-sports.io/football/venues/20151.png,
+BARCIA,,,https://media.api-sports.io/football/teams/22131.png,Campo de fútbol San Sebastián,N-634,Barcia,1000.0,https://media.api-sports.io/football/venues/20152.png,
+ATLÉTICO MINEROS,,,https://media.api-sports.io/football/teams/22132.png,,,,,,
+AÑORGA,,,https://media.api-sports.io/football/teams/22133.png,Campo de Rezola,"Añorga Hiribidea, 44",Donostia,1000.0,https://media.api-sports.io/football/venues/20154.png,
+DEPORTIVO ALAVÉS III,,,https://media.api-sports.io/football/teams/22134.png,Ciudad Deportiva José Luis Compañón,Carretera N-I,Vitoria-Gasteiz,2500.0,https://media.api-sports.io/football/venues/6675.png,
+DERIO,,,https://media.api-sports.io/football/teams/22135.png,Campo de Fútbol Ibaiondo,Untzaga Ibaia Kalea (Calle de Untzaga Ibaia),Derio,1500.0,https://media.api-sports.io/football/venues/20155.png,
+REDDIS,,,https://media.api-sports.io/football/teams/22136.png,Estadio Camp Nou Municipal,Calle Recasens i Mercadé 8,Reus,4847.0,https://media.api-sports.io/football/venues/1468.png,
+BURRIANA,,1949.0,https://media.api-sports.io/football/teams/22137.png,Camp de Futbol Joan B. Planelles,Camí d&apos;Artana,Borriana,4000.0,https://media.api-sports.io/football/venues/20320.png,76.0
+CASTELLONENSE,,,https://media.api-sports.io/football/teams/22138.png,Camp Poliesportiu Municipal Antonio Escuriet,"Camí del Pla, 19",Castelló,1500.0,https://media.api-sports.io/football/venues/20352.png,
+ONTINYENT 1931,,2019.0,https://media.api-sports.io/football/teams/22139.png,Estadio Municipal El Clariano,Avenida del Textil 18,Ontinyent,5000.0,https://media.api-sports.io/football/venues/3986.png,6.0
+SONEJA,,,https://media.api-sports.io/football/teams/22140.png,Camp El Arco,Partida El Arco,Soneja,1000.0,https://media.api-sports.io/football/venues/21188.png,
+UTIEL,,1945.0,https://media.api-sports.io/football/teams/22141.png,Estadio Muncipal La Celadilla,,Utiel,2500.0,https://media.api-sports.io/football/venues/20160.png,80.0
+REAL MADRID III,,,https://media.api-sports.io/football/teams/22142.png,Ciudad Real Madrid Campo 3,"Ciudad Deportiva del Real Madrid, Valdebebas",Madrid,3000.0,https://media.api-sports.io/football/venues/20161.png,
+LAGUNA DE DUERO,,,https://media.api-sports.io/football/teams/22143.png,,,,,,
+VILLARALBO,,2001.0,https://media.api-sports.io/football/teams/22144.png,Estadio Jose Fernandez,,Villaralbo,5000.0,https://media.api-sports.io/football/venues/20168.png,24.0
+ATLÉTICO MELILLA,,,https://media.api-sports.io/football/teams/22145.png,Estadio Álvarez Claro,Explanada de Camellos,Melilla,12000.0,https://media.api-sports.io/football/venues/3982.png,
+ALAIOR,,,https://media.api-sports.io/football/teams/22146.png,Estadio Los Pinos,Carretera Nova,Menorca,2000.0,https://media.api-sports.io/football/venues/20163.png,
+ARENAL,,,https://media.api-sports.io/football/teams/22147.png,Estadio Son Verí,Calle de Cala Blava,S&apos;Arenal de Llucmajor,2000.0,https://media.api-sports.io/football/venues/12338.png,
+SAN BARTOLOMÉ,,,https://media.api-sports.io/football/teams/22148.png,Estadio Municipal Pedro Espinosa De León,"C. Pío XII, 31",San Bartolomé,2000.0,https://media.api-sports.io/football/venues/21103.png,
+CASTUERA,,,https://media.api-sports.io/football/teams/22149.png,Estadio Manuel Ruiz,EX-104,Castuera,1500.0,https://media.api-sports.io/football/venues/20166.png,
+LERINÉS,,,https://media.api-sports.io/football/teams/22150.png,,,,,,
+BALSICAS ATLÉTICO,,2002.0,https://media.api-sports.io/football/teams/22180.png,Campo de Fútbol de Balsicas,,Torre-Pacheco,1000.0,https://media.api-sports.io/football/venues/21126.png,23.0
+ATHLETIC CLUB U21,,,https://media.api-sports.io/football/teams/22414.png,,,,,,
+VALENCIA U21,,,https://media.api-sports.io/football/teams/22422.png,,,,,,
+POLILLAS ATLÉTICO,,,https://media.api-sports.io/football/teams/22494.png,,,,,,
+SPAIN U16,,,https://media.api-sports.io/football/teams/22500.png,,,,,,
+BOIRO,,1966.0,https://media.api-sports.io/football/teams/22566.png,Campo Municipal de Barraña,Avenida Barraña 71,Boiro,2500.0,https://media.api-sports.io/football/venues/20359.png,59.0
+DEPORTIVO MURCIA,,,https://media.api-sports.io/football/teams/22567.png,,,,,,
+HERNÁN CORTÉS,,,https://media.api-sports.io/football/teams/22568.png,Estadio Municipal de Hernán Cortés,Ronda del Norte,Hernán Cortés,1750.0,https://media.api-sports.io/football/venues/20360.png,
+MIJAS LAS LAGUNAS,,,https://media.api-sports.io/football/teams/22569.png,Ciudad Deportiva Las Lagunas,"Cam. del Albero, 14",Las Lagunas de Mijas,1000.0,https://media.api-sports.io/football/venues/21275.png,
+MONTE,,,https://media.api-sports.io/football/teams/22570.png,,,,,,
+QUINTANAR,,,https://media.api-sports.io/football/teams/22571.png,,,,,,
+RUBÍ,,1912.0,https://media.api-sports.io/football/teams/22572.png,Estadio Can Rosés,Avinguda de les Olimpíades,Rubí,4500.0,https://media.api-sports.io/football/venues/20361.png,113.0
+SAUZAL,,,https://media.api-sports.io/football/teams/22573.png,,,,,,
+TARDIENTA,,,https://media.api-sports.io/football/teams/22574.png,,,,,,
+UNIÓN ZONA NORTE,,,https://media.api-sports.io/football/teams/22575.png,,,,,,
+ZIRAUKI,,,https://media.api-sports.io/football/teams/22576.png,,,,,,
+PALAMÓS,,1898.0,https://media.api-sports.io/football/teams/22905.png,Estadio Nou Municipal de Palamós,Passatge de Ladislao Kubala / Avenida de Catalunya,Palamós,5824.0,https://media.api-sports.io/football/venues/20495.png,127.0
+SEVILLA U20,,,https://media.api-sports.io/football/teams/24076.png,,,,,,
+ARETXABALETA,,,https://media.api-sports.io/football/teams/24571.png,Campo de Fútbol Ibarra,"Txarapea Ibilbidea, 12",Arechavaleta,1000.0,https://media.api-sports.io/football/venues/21078.png,
+EIBAR II,,1994.0,https://media.api-sports.io/football/teams/24572.png,Complejo Deportivo de Unbe Inferior,"Otaola Balle, 33",Eibar,1000.0,https://media.api-sports.io/football/venues/21289.png,31.0
+SAN VIATOR,,,https://media.api-sports.io/football/teams/24573.png,Campo San Viator,"Bolivia Kalea, 8",Vitoria-Gasteiz,1000.0,https://media.api-sports.io/football/venues/21290.png,
+ATLÈTIC LLEIDA,,2019.0,https://media.api-sports.io/football/teams/24574.png,Camp de futbol Ramon Farrús,"c/ del Riu Ebre, 16",Lleida,1000.0,https://media.api-sports.io/football/venues/21089.png,6.0
+EUROPA II,,,https://media.api-sports.io/football/teams/24575.png,Camp Municipal de Futbol Nou Sardenya,"Carrer de Sardenya (Cerdeña), Gràcia",Barcelona,7000.0,https://media.api-sports.io/football/venues/1466.png,
+SABADELL II,,,https://media.api-sports.io/football/teams/24576.png,Estadi de la Nova Creu Alta,Plaça Olímpia 1,Sabadell,14950.0,https://media.api-sports.io/football/venues/6686.png,
+BRIVIESCA,,,https://media.api-sports.io/football/teams/24577.png,Campo Municipal de Futbol Briviesca,"Calle la Senda, 23",Briviesca,1500.0,https://media.api-sports.io/football/venues/21080.png,
+MOJADOS,,,https://media.api-sports.io/football/teams/24578.png,,,,,,
+MIGJORN,,,https://media.api-sports.io/football/teams/24579.png,,,,,,
+PORRERES,,,https://media.api-sports.io/football/teams/24580.png,,,,,,
+ZUERA,,,https://media.api-sports.io/football/teams/24581.png,,,,,,
+VALLADARES,,,https://media.api-sports.io/football/teams/24609.png,,,,,,
+VILLALONGA,,1947.0,https://media.api-sports.io/football/teams/24610.png,Estadio Novo San Pedro,Avenida VILLAR Nº 3,Sanxenxo,2000.0,https://media.api-sports.io/football/venues/21102.png,78.0
+LOS LLANOS,,,https://media.api-sports.io/football/teams/24611.png,Estadio Municipal Aceró,"Los Calle Enrique Mederos Lorenzo, 50",Los Llanos de Aridane,3000.0,https://media.api-sports.io/football/venues/21104.png,
+EXTREMADURA 1924,,2022.0,https://media.api-sports.io/football/teams/24612.png,,,,,,3.0
+PUEBLA CALZADA,,,https://media.api-sports.io/football/teams/24613.png,,,,,,
+ATLÉTICO ARTAJONÉS,,1951.0,https://media.api-sports.io/football/teams/24614.png,Estadio La Alameda,Calle Andiuz,Artajona,2500.0,https://media.api-sports.io/football/venues/21105.png,74.0
+ROTXAPEA,,,https://media.api-sports.io/football/teams/24615.png,,,,,,
+NOBLEJAS,,,https://media.api-sports.io/football/teams/24653.png,,,,,,
+VALDEPEÑAS,,,https://media.api-sports.io/football/teams/24654.png,,,,,,
+SANTOMERA,,,https://media.api-sports.io/football/teams/24655.png,Estadio El Limonar,"Camino Viejo de Orihuela, 5",Santomera,3000.0,https://media.api-sports.io/football/venues/21127.png,
+ÁGUILAS II,,,https://media.api-sports.io/football/teams/24656.png,,,,,,
+ARAVACA,,1933.0,https://media.api-sports.io/football/teams/24708.png,Estadio Antonio Sanfíz,"Calle Fuente del Rey 33, Aravaca",Madrid,800.0,https://media.api-sports.io/football/venues/21151.png,92.0
+CALA POZUELO,,,https://media.api-sports.io/football/teams/24709.png,,,,,,
+ATLÉTICO CENTRAL,,2018.0,https://media.api-sports.io/football/teams/24723.png,Centro Deportivo Vega de Triana,Av. de Coria,Sevilla,1000.0,https://media.api-sports.io/football/venues/21392.png,7.0
+RECREATIVO HUELVA II,,,https://media.api-sports.io/football/teams/24724.png,Ciudad Deportiva Decáno del Fútbol Español,Carretera de San Juan del Puerto-Ayamonte,Huelva,1000.0,https://media.api-sports.io/football/venues/21162.png,
+RACING CF BENIDORM,,,https://media.api-sports.io/football/teams/24778.png,,,,,,
+VALL DE UXÓ,,,https://media.api-sports.io/football/teams/24779.png,,,,,,
+MARBELLI,,,https://media.api-sports.io/football/teams/24960.png,Estadio Municipal,Polideportivo Guadaiza,San Pedro de Alcántara,5000.0,https://media.api-sports.io/football/venues/12327.png,
+MARTOS,,,https://media.api-sports.io/football/teams/24961.png,Estadio Chamorro Martinez,Calle Doctor Fleming,Martos,5000.0,https://media.api-sports.io/football/venues/21260.png,
+MALAGA CITY,,,https://media.api-sports.io/football/teams/24962.png,Campo Municipal El Pozuelo,Calle Pedro Navarro Bruna,Torremolinos,3000.0,https://media.api-sports.io/football/venues/11025.png,
+GIRONA U19,,,https://media.api-sports.io/football/teams/24979.png,Camp de Futbol Vilablareix,Avinguda de Lluís Companys,Vilablareix,1000.0,https://media.api-sports.io/football/venues/21268.png,
+STJARNAN U19,,,https://media.api-sports.io/football/teams/24987.png,,,,,,
+EIBAR III,,,https://media.api-sports.io/football/teams/25023.png,,,,,,
+PRÍNCIPE ALFONSO,,,https://media.api-sports.io/football/teams/25024.png,,,,,,
+ASTUR,,,https://media.api-sports.io/football/teams/25030.png,Estadio Hermanos Llana,Parque del Oeste s/n,Oviedo,2000.0,https://media.api-sports.io/football/venues/21296.png,
+DOLORENSE,,,https://media.api-sports.io/football/teams/25031.png,,,,,,
+GÉVORA,,,https://media.api-sports.io/football/teams/25032.png,,,,,,
+MANISES,,,https://media.api-sports.io/football/teams/25033.png,,,,,,
+ONTIÑENA,,,https://media.api-sports.io/football/teams/25034.png,,,,,,
+PARLA ESCUELA,,,https://media.api-sports.io/football/teams/25035.png,,,,,,
+PLAYAS SOTAVENTO,,,https://media.api-sports.io/football/teams/25036.png,,,,,,
+PROMESAS EDF,,,https://media.api-sports.io/football/teams/25037.png,,,,,,
+SAN TIRSO,,,https://media.api-sports.io/football/teams/25038.png,,,,,,
+SONSECA,,,https://media.api-sports.io/football/teams/25039.png,,,,,,
+SPORTING MAHÓN,,,https://media.api-sports.io/football/teams/25040.png,,,,,,
+VIC,,,https://media.api-sports.io/football/teams/25041.png,Estadi Municipal de Futbol de Vic,Carrer del Mas d&apos;Osona,Vic,4000.0,https://media.api-sports.io/football/venues/20756.png,
+VILLAMURIEL,,1976.0,https://media.api-sports.io/football/teams/25042.png,Municipal Rafael Vázquez Sedano,,Palencia,1000.0,https://media.api-sports.io/football/venues/21297.png,49.0
+INTER SEVILLA,,,https://media.api-sports.io/football/teams/25179.png,,,,,,
